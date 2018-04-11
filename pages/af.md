@@ -19,9 +19,9 @@ The AsthmaMap Activity Flow layer consists of cell-type-specific interconnected 
 <a href="/images/af/F002-AirwayEpithelialCell.graphml">GraphML</a> &nbsp; 
 <a href="/images/af/F002-AirwayEpithelialCell.sbgn">SBGN-ML</a> &nbsp; 
 </font> </td>
-      <td style="width: 225px;" align="center"> <a href="/images/af/F000-TEST.svg"><br />Microphage</a> <br /> <font size="2"> 
-<a href="/images/af/F000-TEST.graphml">GraphML</a> &nbsp;
-<a href="/images/af/F000-TEST.sbgn">SBGN-ML</a> &nbsp;
+      <td style="width: 225px;" align="center"> <a href="/images/af/F009-Macrophage.svg"><br />Microphage</a> <br /> <font size="2"> 
+<a href="/images/af/F009-Macrophage.graphml">GraphML</a> &nbsp;
+<a href="/images/af/F009-Macrophage.sbgn">SBGN-ML</a> &nbsp;
 </font> </td>
       <td style="width: 225px;" align="center"> <a href="/images/af/F013-Neutrophil.svg"><br />Neutrophil</a> <br /> <font size="2"> 
 <a href="/images/af/F013-Neutrophil.graphml">GraphML</a> &nbsp;
@@ -33,7 +33,7 @@ The AsthmaMap Activity Flow layer consists of cell-type-specific interconnected 
     <tr>
       <td style="width: 225px;" align="center"><a href="/images/af/F001-DendriticCell.svg"><img src="/images/af/F001-DendriticCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
       <td style="width: 225px;" align="center"><a href="/images/af/F002-AirwayEpithelialCell.svg"><img src="/images/af/F002-AirwayEpithelialCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F000-TEST.svg"><img src="/images/af/F000-empty-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="/images/af/F009-Macrophage.svg"><img src="/images/af/F009-Macrophage-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
       <td style="width: 225px;" align="center"><a href="/images/af/F013-Neutrophil.svg"><img src="/images/af/F013-Neutrophil-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
     </tr>
 </table>
