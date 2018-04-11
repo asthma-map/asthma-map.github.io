@@ -6,7 +6,7 @@ permalink: /af/
 
 # Activity Flow
 
-The AsthmaMap Activity Flow layer consists of cell-type-specific interconnected diagrams. The diagrams are automatically assembled based on the AsthmaMap Cellular Interactions 1.1 and information from the MetaCore pathway database. MetaCore pathway maps were transformed into the SBGN Activity Flow format, adjusted to ensure compatability for the pathway-merging pipeline, automatically merged for a specific cell type, automatically layouted in yEd Graph Editor using One-Click Layout and then manually improved.
+The AsthmaMap Activity Flow layer consists of cell-type-specific interconnected diagrams. The diagrams are automatically assembled based on the AsthmaMap Cellular Interactions 1.1 and information from the MetaCore pathway database. MetaCore pathway maps were transformed into the SBGN Activity Flow format, adjusted to ensure compatability for the pathway-merging pipeline, automatically merged for a specific cell type and automatically layouted in yEd Graph Editor using One-Click Layout.
 
 <!--Row #1-->
 <table>
