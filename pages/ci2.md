@@ -13,57 +13,16 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 ## What is new in version 1.2
 
-### 1. Goblet cell
+1. Goblet cell
+  * PGE2 &rarr; PTGER2, PTGER4 &rarr; 
+  * MUC5AC, MUC5B, MUC2 (PMIDs: 12391274, 10198352, 19907312); 
+  * PGF2-alpha &rarr; PTGFR &rarr; MUC5AC (PMID: 19201889); 
+  * LTC4, LTD4 &rarr; CysLTR1 &rarr; MUC5AC (PMID: 10378985); 
+  * Goblet cell &rarr; Mucus hypersecretion in asthma &rarr; MUC5AC, MUC5B, MUC2 (PMIDs: 19077699, 19907312, 11179133, 11943022); 
+  * IL-13 &rarr; Mucus hypersecretion in asthma (PMIDs: 18028464, 12794003, 16980555, 12091879); 
+  * IL-17 &rarr; mucin production in airway epithelial cells (PMIDs: 19841186, 16859642, 12624114); 
 
-PGE2 &rarr; PTGER2, PTGER4 &rarr; MUC5AC, MUC5B, MUC2  
+1. Epithelial cells
+  * IL17R &rarr; CXCL8, CXCL1, CXCL5 &rarr; neutrophil migration (PMIDs: 14557379, 12591113, 11692108, 11325811, 12034575)  
 
-PMIDs: 12391274, 10198352, 19907312  
-
-PGF2-alpha &rarr; PTGFR &rarr; MUC5AC  
-
-PMID: 19201889  
-
-LTC4, LTD4 &rarr; CysLTR1 &rarr; MUC5AC  
-
-PMID: 10378985  
-
-Goblet cell &rarr; Mucus hypersecretion in asthma &rarr; MUC5AC, MUC5B, MUC2  
-
-PMIDs: 19077699, 19907312, 11179133, 11943022  
-
-IL-13 &rarr; Mucus hypersecretion in asthma  
-
-PMIDs: 18028464, 12794003, 16980555, 12091879  
-
-IL-17 &rarr; mucin production in airway epithelial cells  
-
-PMIDs: 19841186, 16859642, 12624114  
-
-### 2. Epithelial cells
-
-IL17R &rarr; CXCL8, CXCL1, CXCL5 &rarr; neutrophil migration  
-
-PMIDs: 14557379, 12591113, 11692108, 11325811, 12034575  
-
-### 3. Immunopathogenesis of bronchial asthma
-
-PMIDs: 21334836, 21334836, 24035576, 21375540, 18384431, 22627375, 22850884, 17986378, 19862934  
-
-### 4. The airway epithelium in asthma
-
-PMIDs: 18209502, 20008870, 21682747, 28941636  
-
-### 5. Mast cell and airway smooth muscle cell interactions in asthma
-
-PMIDs: 11704524, 15241345  
-
-### 6. Oxidative stress in asthma
-
-PMIDs: 10992559, 11698041, 7767513  
-
-### 7. Fibroblast: 
-
-TGF-beta &rarr; extracellular matrix production &rarr; Fibrosis  
-
-PMIDs: 15591881, 20591736, 21514131, 17325694, 11451940, 17589920  
 
