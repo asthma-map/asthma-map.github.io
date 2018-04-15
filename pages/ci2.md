@@ -13,6 +13,10 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 ## What is new in version 1.2
 
+* test
+  * test
+    * test
+
 1. Goblet cell
   * PGE2 &rarr; PTGER2, PTGER4 &rarr; 
   * MUC5AC, MUC5B, MUC2 (PMIDs: 12391274, 10198352, 19907312); 
