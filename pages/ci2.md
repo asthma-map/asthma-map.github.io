@@ -155,8 +155,10 @@ The following tables provide details on the added content and the corresponding 
 <td>TBXA2R → Smooth muscle cell proliferation</td><td>PMID 16723377, PMID 14751539, PMID 7591017</td>
 </tr>
 </table>
- 
-Note that the changes cover in part the following suggestions from Richard Knowles: #1, #2, #3, #4, #11, #12.
+
+<br />
+
+The changes cover in part the following suggestions from Richard Knowles: #1, #2, #3, #4, #11, #12.
  
  
  
