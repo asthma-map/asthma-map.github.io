@@ -15,7 +15,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 Goblet cell | PGE2 → PTGER2, PTGER4 → MUC5AC, MUC5B, MUC2 | PMID 12391274, PMID 10198352, PMID 19907312
 Goblet cell | PGF2-alpha → PTGFR → MUC5AC | PMID 19201889
-LTC4, LTD4 → CysLTR1 → MUC5AC | PMID 10378985
+Goblet cell | LTC4, LTD4 → CysLTR1 → MUC5AC | PMID 10378985
 Goblet cell | Goblet cell → Mucus hypersecretion in asthma → MUC5AC, MUC5B, MUC2 | PMID 19077699, PMID 19907312, PMID 11179133, PMID 11943022
 Goblet cell | IL-13 → Mucus hypersecretion in asthma | PMID 18028464, PMID 12794003, PMID 16980555, PMID 12091879
 Goblet cell | IL-17 → mucin production in airway epithelial cells | PMID 19841186, PMID 16859642, PMID 12624114
