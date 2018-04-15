@@ -16,6 +16,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 * test
   * test
     * test
+  * test
 
 1. Goblet cell
   * PGE2 &rarr; PTGER2, PTGER4 &rarr; 
