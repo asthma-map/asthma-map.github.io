@@ -13,19 +13,14 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 ## What is new in version 1.2
 
-#### Goblet cell
-  * PGE2 → PTGER2, PTGER4 → MUC5AC, MUC5B, MUC2
-References: PMID 12391274, PMID 10198352, PMID 19907312
-  * PGF2-alpha → PTGFR → MUC5AC
-References: PMID 19201889
-  * LTC4, LTD4 → CysLTR1 → MUC5AC
-References: PMID 10378985
-  * Goblet cell → Mucus hypersecretion in asthma → MUC5AC, MUC5B, MUC2
-References: PMID 19077699, PMID 19907312, PMID 11179133, PMID 11943022
-  * IL-13 → Mucus hypersecretion in asthma
-References: PMID 18028464, PMID 12794003, PMID 16980555, PMID 12091879
-  * IL-17 → mucin production in airway epithelial cells
-References: PMID 19841186, PMID 16859642, PMID 12624114
+### Goblet cell
+
+PGE2 → PTGER2, PTGER4 → MUC5AC, MUC5B, MUC2 | PMID 12391274, PMID 10198352, PMID 19907312
+PGF2-alpha → PTGFR → MUC5AC | PMID 19201889
+LTC4, LTD4 → CysLTR1 → MUC5AC | PMID 10378985
+Goblet cell → Mucus hypersecretion in asthma → MUC5AC, MUC5B, MUC2 | PMID 19077699, PMID 19907312, PMID 11179133, PMID 11943022
+IL-13 → Mucus hypersecretion in asthma | PMID 18028464, PMID 12794003, PMID 16980555, PMID 12091879
+IL-17 → mucin production in airway epithelial cells | PMID 19841186, PMID 16859642, PMID 12624114
 
 #### Epithelial cells
   * IL17R → CXCL8, CXCL1, CXCL5 → neutrophil migration
