@@ -16,7 +16,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 #### Goblet cell
 
 <table>
- <col width="300">
+ <col width="400">
 <tr>
 <td>PGE2 → PTGER2, PTGER4 → MUC5AC, MUC5B, MUC2</td><td>PMID 12391274, PMID 10198352, PMID 19907312</td>
 </tr><tr>
@@ -35,7 +35,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 #### Epithelial cell
 
 <table>
- <col width="300">
+ <col width="400">
 <tr>
 <td>IL17R → CXCL8, CXCL1, CXCL5 → neutrophil migration</td><td>PMID 14557379, PMID 12591113, PMID 11692108, PMID 11325811, PMID 12034575</td>
 </tr>
@@ -44,7 +44,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 #### Fibroblast
 
 <table>
- <col width="300">
+ <col width="400">
 <tr>
 <td>TGF-beta → Extracellular matrix production → Fibrosis</td><td>PMID 15591881, PMID 20591736, PMID 21514131, PMID 17325694, PMID 11451940, PMID 17589920</td>
 </tr>
@@ -53,6 +53,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 #### Endothelial cell
 
 <table>
+ <col width="400">
 <tr>
 <td>VCAM1, ICAM1</td><td>PMID 16601240, PMID 10050668</td>
 </tr><tr>
@@ -65,7 +66,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 #### Eosinophil
 
 <table>
- <col width="300">
+ <col width="400">
 <tr>
 <td>CCR3</td><td>PMID 23334207, PMID 21042920, PMID 14561210</td>
 </tr><tr>
@@ -112,6 +113,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 #### Neutrophil
 
 <table>
+ <col width="400">
 <tr>
 <td>CXCL8 → CXCR1, Neutrophil </td><td>PMID 8692878</td>
 </tr><tr>
@@ -140,6 +142,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 #### Smooth muscle
 
 <table>
+ <col width="400">
 <tr>
 <td>CYSLTR1 → Smooth muscle contraction</td><td>PMID 16183910</td>
 </tr><tr>
