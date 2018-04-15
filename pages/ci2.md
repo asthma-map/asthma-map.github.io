@@ -13,4 +13,46 @@ The new version is being developed in collaboration with the Laboratory for Tran
 
 ### What is new in version 1.2
 
-&rarr;
+#### 1. Goblet cell
+
+PGE2 &rarr; PTGER2, PTGER4 &rarr; MUC5AC, MUC5B, MUC2  
+PMID: 12391274, PMID: 10198352, PMID: 19907312  
+PGF2-alpha &rarr; PTGFR &rarr; MUC5AC  
+PMID: 19201889  
+LTC4, LTD4 &rarr; CysLTR1 &rarr; MUC5AC  
+PMID: 10378985  
+Goblet cell &rarr; Mucus hypersecretion in asthma &rarr; MUC5AC, MUC5B, MUC2  
+PMID: 19077699, PMID: 19907312, PMID: 11179133, PMID: 11943022  
+IL-13 &rarr; Mucus hypersecretion in asthma  
+PMID: 18028464, PMID: 12794003, PMID: 16980555, PMID: 12091879  
+IL-17 &rarr; mucin production in airway epithelial cells  
+PMID: 19841186, PMID: 16859642, PMID: 12624114  
+
+#### 2. Epithelial cells
+
+IL17R &rarr; CXCL8, CXCL1, CXCL5 &rarr; neutrophil migration  
+
+PMIDs: 14557379, 12591113, 11692108, 11325811, 12034575  
+
+#### 3. Immunopathogenesis of bronchial asthma
+
+PMIDs: 21334836, 21334836, 24035576, 21375540, 18384431, 22627375, 22850884, 17986378, 19862934  
+
+#### 4. The airway epithelium in asthma
+
+PMIDs: 18209502, 20008870, 21682747, 28941636  
+
+#### 5. Mast cell and airway smooth muscle cell interactions in asthma
+
+PMIDs: 11704524, 15241345  
+
+#### 6. Oxidative stress in asthma
+
+PMIDs: 10992559, 11698041, 7767513  
+
+#### 7. Fibroblast: 
+
+TGF-beta &rarr; extracellular matrix production &rarr; Fibrosis  
+
+PMIDs: 15591881, 20591736, 21514131, 17325694, 11451940, 17589920  
+
