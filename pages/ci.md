@@ -33,4 +33,4 @@ Available for downloding in various formats via [Downloads](/downloads/) page.
 
 ## AsthmaMap Cellular Interactions 1.2 - ongoing work
 
-In collaboration with the Laboratory for Translational Research and Personalised Medicine at the Moscow Institute of Physics and Technology we are preparing an improved version AsthmaMap Cellular Interactions 1.2 with newly published research integrated and suggestions from our extended Editorial Panel taken into account.  
+In collaboration with the Laboratory for Translational Research and Personalised Medicine at the Moscow Institute of Physics and Technology we are preparing an improved version [AsthmaMap Cellular Interactions 1.2](/ci2/) with newly published research integrated and suggestions from our extended Editorial Panel taken into account.  
