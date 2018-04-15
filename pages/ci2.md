@@ -13,6 +13,19 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 ## What is new in version 1.2
 
+#### Endothelial cell
+
+<table style="font-size:14px">
+ <col width="400">
+<tr>
+<td>VCAM1, ICAM1</td><td>PMID 16601240, PMID 10050668</td>
+</tr><tr>
+<td>ICAM1</td><td>PMID 7505008, PMID 7512980</td>
+</tr><tr>
+<td>VCAM1</td><td>PMID 11964048, PMID 17906117</td>
+</tr>
+</table>
+
 #### Goblet cell
 
 <table style="font-size:14px">
@@ -34,7 +47,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 #### Epithelial cell
 
-<table>
+<table style="font-size:14px">
  <col width="400">
 <tr>
 <td>IL17R → CXCL8, CXCL1, CXCL5 → neutrophil migration</td><td>PMID 14557379, PMID 12591113, PMID 11692108, PMID 11325811, PMID 12034575</td>
@@ -43,29 +56,16 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 #### Fibroblast
 
-<table>
+<table style="font-size:14px">
  <col width="400">
 <tr>
 <td>TGF-beta → Extracellular matrix production → Fibrosis</td><td>PMID 15591881, PMID 20591736, PMID 21514131, PMID 17325694, PMID 11451940, PMID 17589920</td>
 </tr>
 </table>
 
-#### Endothelial cell
-
-<table>
- <col width="400">
-<tr>
-<td>VCAM1, ICAM1</td><td>PMID 16601240, PMID 10050668</td>
-</tr><tr>
-<td>ICAM1</td><td>PMID 7505008, PMID 7512980</td>
-</tr><tr>
-<td>VCAM1</td><td>PMID 11964048, PMID 17906117</td>
-</tr>
-</table>
-
 #### Eosinophil
 
-<table>
+<table style="font-size:14px">
  <col width="400">
 <tr>
 <td>CCR3</td><td>PMID 23334207, PMID 21042920, PMID 14561210</td>
@@ -112,7 +112,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 #### Neutrophil
 
-<table>
+<table style="font-size:14px">
  <col width="400">
 <tr>
 <td>CXCL8 → CXCR1, Neutrophil </td><td>PMID 8692878</td>
@@ -141,7 +141,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 #### Smooth muscle
 
-<table>
+<table style="font-size:14px">
  <col width="400">
 <tr>
 <td>CYSLTR1 → Smooth muscle contraction</td><td>PMID 16183910</td>
