@@ -135,7 +135,7 @@ The following tables provide details on the added content and the corresponding 
 </tr><tr>
 <td>IgE → FcɛR1 → FcɛR1-induced gene expression → CXCL8</td><td>PMID 11292654, PMID 15178703, PMID 19862934</td>
 </tr><tr>
-<td>CXCR1, CXCR2 → Neutrophil migration to lung compartment</td><td>PMID 21839682, PMID 16433851 PMID 17986378 PMID 22627375, PMID 15569498, PMID 18779195, PMID 11959064, PMID 15637552, PMID 17412406, PMID 17471178, PMID 20685738</td>
+<td>CXCR1, CXCR2 → Neutrophil migration to lung compartment</td><td>PMID 21839682, PMID 16433851, PMID 17986378, PMID 22627375, PMID 15569498, PMID 18779195, PMID 11959064, PMID 15637552, PMID 17412406, PMID 17471178, PMID 20685738</td>
 </tr><tr>
 <td>LTB4R → Neutrophil migration to lung compartment</td><td>PMID 12562556, PMID 16433851, PMID 10977867, PMID 1952580, PMID 8108534, PMID 8386926, PMID 8994512, PMID 16126787, PMID 21352897, PMID 21421908, PMID 20685738</td>
 </tr>
