@@ -15,7 +15,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 #### Goblet cell
 
-<table style="font-size:12px">
+<table style="font-size:13px">
  <col width="400">
 <tr>
 <td>PGE2 → PTGER2, PTGER4 → MUC5AC, MUC5B, MUC2</td><td>PMID 12391274, PMID 10198352, PMID 19907312</td>
