@@ -11,7 +11,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 <a href="/images/ci/AsthmaMapCI-V1.2.02-red.svg"><img src="/images/ci/AsthmaMapCI-V1.2.02-red.png"/></a>
 
-### What is new in AsthmaMap Cellular Interactions 1.2
+### What is new in the AsthmaMap Cellular Interactions 1.2
 
 The following tables provide details on the added content and the corresponding references.
 
