@@ -129,7 +129,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 </tr><tr>
 <td>IgE → FcɛR1 → Lipid metabolism</td><td>PMID 19862934, PMID 17412406</td>
 </tr><tr>
-<td>IgE → ROS production → Lipid metabolism (production of PGE2 and TxA2) in neutrophils</td><td>PMID 16624933, PMID 17606988, PMID 8391372</td>
+<td>IgE → ROS production → Lipid metabolism </td><td>PMID 16624933, PMID 17606988, PMID 8391372</td>
 </tr><tr>
 <td>IgE → FcɛR1 → FcɛR1-induced gene expression → CXCL8</td><td>PMID 11292654, PMID 15178703, PMID 19862934</td>
 </tr><tr>
