@@ -141,7 +141,7 @@ The following tables provide details on the added content and the corresponding 
 </tr>
 </table>
 
-#### Smooth muscle
+#### Airway smooth muscle
 
 <table style="font-size:14px">
  <col width="400">
