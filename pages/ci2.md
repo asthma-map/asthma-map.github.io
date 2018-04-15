@@ -23,23 +23,12 @@ IL-13 → Mucus hypersecretion in asthma | PMID 18028464, PMID 12794003, PMID 16
 IL-17 → mucin production in airway epithelial cells | PMID 19841186, PMID 16859642, PMID 12624114
 
 #### Epithelial cells
-  * IL17R → CXCL8, CXCL1, CXCL5 → neutrophil migration
-References: PMID 14557379, PMID 12591113, PMID 11692108, PMID 11325811, PMID 12034575
 
-#### Immunopathogenesis of bronchial asthma
-References: PMID 21334836, PMID 21334836, PMID 24035576, PMID 21375540, PMID 18384431, PMID 22627375, PMID 22850884, PMID 17986378, PMID 19862934
-1. The airway epithelium in asthma
-References: PMID 18209502, PMID 20008870, PMID 21682747, PMID 28941636
-
-#### Mast cell and airway smooth muscle cell interactions in asthma
-References: PMID 11704524, PMID 15241345
-
-#### Oxidative stress in asthma
-References: PMID 10992559, PMID 11698041, PMID 7767513
+IL17R → CXCL8, CXCL1, CXCL5 → neutrophil migration | PMID 14557379, PMID 12591113, PMID 11692108, PMID 11325811, PMID 12034575
 
 #### Fibroblast
-TGF-beta → extracellular matrix production → Fibrosis
-References: PMID 15591881, PMID 20591736, PMID 21514131, PMID 17325694, PMID 11451940, PMID 17589920
+
+TGF-beta → Extracellular matrix production → Fibrosis | PMID 15591881, PMID 20591736, PMID 21514131, PMID 17325694, PMID 11451940, PMID 17589920
 
 
 #### “Eosinophil migration from blood vessel to lung compartment”
@@ -50,7 +39,7 @@ References:
 VCAM1, ICAM1 - PMID 16601240, PMID 10050668
 ICAM1 - PMID 7505008, PMID 7512980
 VCAM1 - PMID 11964048, PMID 17906117
-  * Links from CCR3 and CCR4 to “Eosinophil migration from blood vessel to lung compartment”
+  * Links from CCR3, CCR4 → Eosinophil migration from blood vessel to lung compartment
 References:
 CCR3 - PMID 23334207, PMID 21042920, PMID 14561210
               	CCR4 - PMID 21042920, PMID 21208220, PMID 13679815
