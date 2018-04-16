@@ -19,7 +19,7 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 ### What is new in the AsthmaMap Cellular Interactions 1.2
 
-The following tables provide details on the added content and the corresponding references.
+The following tables provide details on the added content in comparison with the released [version 1.1](/ci/).
 
 #### Endothelial cell
 
