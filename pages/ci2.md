@@ -9,7 +9,13 @@ permalink: /ci2/
 
 A new version of the AsthmaMap Cellular Interactions map is being developed in collaboration with the Laboratory for Translational Research and Personalised Medicine at the Moscow Institute of Physics and Technology. Newly introduced changes are marked in red.
 
+### Version 1.2.02
+
 <a href="/images/ci/AsthmaMapCI-V1.2.02-red.svg"><img src="/images/ci/AsthmaMapCI-V1.2.02-red.png"/></a>
+
+### Version 1.2.01
+
+<a href="/images/ci/AsthmaMapCI-V1.2.01-red.svg"><img src="/images/ci/AsthmaMapCI-V1.2.01-red.png"/></a>
 
 ### What is new in the AsthmaMap Cellular Interactions 1.2
 
