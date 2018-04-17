@@ -44,6 +44,24 @@ permalink: /team/
 </tr>
 </table>
 
+<table>
+<tr>
+<td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/RatkoDjukanovic.jpg" width="160"/></p></td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Ratko Djukanovic, MD, DM, FRCP</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor of Medicine, Director of the Southampton NIHR Respiratory Biomedical Research Unit, University of Southampton<br />Director of the NIHR Southampton Centre for Biomedical Research</font></p></td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+</tr>
+</table>
+
 <br />
 
 ## Development Team
