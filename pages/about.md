@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-The AsthmaMap is led by the European Institute for Systems Bioloyg and Medicine, Lyon, France. The project initiated as a part of U-BIOPRED (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within eTRIKS (European Translational Information and Knowledge Management Services).  
+The AsthmaMap project is led by the European Institute for Systems Bioloyg and Medicine, Lyon, France. The effort was initiated as a part of the IMI U-BIOPRED (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within IMI eTRIKS project (European Translational Information and Knowledge Management Services).  
 
 An important part of the AsthmaMap development is the involvement of top experts in the field of asthma, allergic diseases and lung diseases. This way we make sure we are building a trusted reference resource and the results of this work go towards practical applications in clinics.  
 
