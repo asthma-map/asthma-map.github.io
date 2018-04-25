@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="activity flow">
+        <extension>
+            <renderInformation xmlns="http://www.sbml.org/sbml/level3/version1/render/version1" backgroundColor="#ffffff" id="renderInformation" programName="graphml2sbgn" programVersion="0.1">
+                <listOfColorDefinitions>
+                    <colorDefinition id="color_1" value="#DDD8CA"/>
+                    <colorDefinition id="color_2" value="#BCD6F1"/>
+                    <colorDefinition id="color_3" value="#FFFFFF"/>
+                    <colorDefinition id="color_4" value="#EDEBE472"/>
+                    <colorDefinition id="color_5" value="#000000"/>
+                </listOfColorDefinitions>
+                <listOfStyles>
+                    <style id="style_1.0FFFFFF14.0000000" idList="n0::n2::n10::n49 n0::n2::n10::n46 n0::n2::n10::n45 n0::n2::n10::n48 n0::n2::n10::n47 n0::n2::n10::n20 n0::n2::n10::n42 n0::n2::n10::n86 n0::n2::n10::n44 n0::n2::n10::n43 n0::n2::n10::n87 n0::n2::n10::n40 n0::n2::n10::n50 n0::n2::n10::n0 n0::n2::n10::n2 n0::n2::n10::n80 n0::n2::n10::n1 n0::n2::n10::n4 n0::n2::n10::n3">
+                        <g fill="color_3" fontSize="14.0" stroke="color_5" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_1.0DDD8CA14.0000000" idList="n0::n2::n10::n39 n0::n2::n10::n104::n0 n0::n2::n10::n13 n0::n2::n10::n37 n0::n2::n10::n5 n0::n2::n10::n25 n0::n2::n10::n75 n0::n2::n10::n74 n0::n2::n10::n76">
+                        <g fill="color_1" fontSize="14.0" stroke="color_5" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_1.0BCD6F114.0000000" idList="n0::n2::n10::n17 n0::n2::n10::n16 n0::n2::n10::n19 n0::n2::n10::n18 n0::n2::n10::n12 n0::n2::n10::n15 n0::n2::n10::n14 n0::n2::n10::n97 n0::n2::n10::n96 n0::n2::n10::n11 n0::n2::n10::n99 n0::n2::n10::n10 n0::n2::n10::n98 n0::n2::n10::n93 n0::n2::n10::n92 n0::n2::n10::n95 n0::n2::n10::n94 n0::n2::n10::n89 n0::n2::n1 n0::n2::n0 n0::n2::n10::n85 n0::n2::n3 n0::n2::n10::n88 n0::n2::n2 n0::n2::n5 n0::n2::n10::n82 n0::n2::n4 n0::n2::n10::n81 n0::n2::n7 n0::n2::n10::n84 n0::n2::n6 n0::n2::n10::n83 n0::n0 n0::n2::n9 n0::n1 n0::n2::n8 n0::n2::n10::n91 n0::n2::n10::n90 n0::n2::n10::n79 n0::n2::n10::n78 n0::n2::n10::n77 n0::n2::n10::n71 n0::n2::n10::n70 n0::n2::n10::n73 n0::n2::n10::n72 n0::n2::n10::n68 n0::n2::n10::n105::n9 n0::n2::n10::n67 n0::n2::n10::n105::n7 n0::n2::n10::n69 n0::n2::n10::n105::n8 n0::n2::n10::n64 n0::n2::n10::n105::n5 n0::n2::n10::n63 n0::n2::n10::n105::n6 n0::n2::n10::n66 n0::n2::n10::n105::n3 n0::n2::n10::n65 n0::n2::n10::n105::n4 n0::n2::n10::n60 n0::n2::n10::n105::n1 n0::n2::n10::n105::n2 n0::n2::n10::n62 n0::n2::n10::n61 n0::n2::n10::n105::n0 n0::n2::n10::n57 n0::n2::n10::n56 n0::n2::n10::n59 n0::n2::n10::n58 n0::n2::n10::n53 n0::n2::n10::n105::n10 n0::n2::n10::n52 n0::n2::n10::n105::n11 n0::n2::n10::n55 n0::n2::n10::n54 n0::n2::n10::n51 n0::n2::n10::n8 n0::n2::n10::n7 n0::n2::n10::n41 n0::n2::n10::n9 n0::n2::n10::n6 n0::n2::n10::n105::n12 n0::n2::n10::n38 n0::n2::n10::n101 n0::n2::n10::n100 n0::n2::n10::n35 n0::n2::n10::n103 n0::n2::n10::n34 n0::n2::n10::n102 n0::n2::n10::n36 n0::n2::n10::n31 n0::n2::n10::n30 n0::n2::n10::n33 n0::n2::n10::n32 n0::n2::n10::n28 n0::n2::n10::n27 n0::n2::n10::n104::n1 n0::n2::n10::n29 n0::n2::n10::n24 n0::n2::n10::n23 n0::n2::n10::n26 n0::n2::n10::n22 n0::n2::n10::n21">
+                        <g fill="color_2" fontSize="14.0" stroke="color_5" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_3.0EDEBE47214.0000000" idList="n0 n0::n2 n0::n2::n10::n105 n0::n2::n10::n104 n0::n2::n10">
+                        <g fill="color_4" fontSize="14.0" stroke="color_5" strokeWidth="3.0"/>
+                    </style>
+                    <style id="style_1.0000000" idList="n0::n2::n10::n105::e4 n0::n2::n10::n105::e5 n0::n2::n10::n105::e2 n0::n2::n10::n105::e3 n0::n2::n10::n105::e0 n0::n2::n10::n105::e1 n0::n2::n10::e79 n0::n2::n10::e87 n0::n2::n10::e86 n0::n2::n10::e89 n0::n2::n10::e88 n0::n2::n10::e83 n0::n2::n10::e82 n0::n2::n10::e85 n0::n2::n10::e84 n0::n2::n10::e81 n0::n2::n10::e80 n0::n2::n10::e69 n0::n2::n10::e68 n0::n2::n10::e76 n0::n2::n10::e75 n0::n2::n10::e78 n0::n2::n10::e77 n0::n2::n10::e72 n0::n2::n10::e71 n0::n2::n10::e74 n0::n2::n10::e73 n0::n2::n10::e70 n0::n2::n10::e7 n0::n2::n10::e6 n0::n2::n10::e9 n0::n2::n10::e8 n0::e3 n0::n2::n10::e1 n0::n2::n10::e0 n0::n2::n10::e3 n0::n2::n10::e58 n0::n2::n10::e2 n0::n2::n10::e57 n0::n2::n10::e5 n0::n2::n10::e4 n0::n2::n10::e59 n0::n2::n10::e65 n0::n2::n10::e64 n0::n2::n10::e67 n0::n2::n10::e66 n0::n2::n10::e61 n0::n2::n10::e60 n0::n2::n10::e63 n0::n2::n10::e62 n0::e0 n0::e1 n0::e2 n0::n2::e10 n0::n2::e11 n0::n2::n10::e47 n0::n2::n10::e46 n0::n2::n10::e49 n0::n2::n10::e48 n0::n2::n10::e54 n0::n2::n10::e53 n0::n2::n10::e56 n0::n2::n10::e55 n0::n2::n10::e50 n0::n2::n10::e52 n0::n2::n10::e51 n0::n2::n10::n105::e8 n0::n2::n10::n105::e6 n0::n2::n10::n105::e7 n0::n2::e20 n0::n2::e21 n0::n2::e22 n0::n2::n10::e39 n0::n2::n10::e151 n0::n2::n10::e150 n0::n2::n10::e36 n0::n2::n10::e35 n0::n2::n10::e38 n0::n2::n10::e37 n0::n2::n10::e43 n0::n2::n10::e42 n0::n2::n10::e45 n0::n2::n10::e44 n0::n2::n10::e153 n0::n2::n10::e152 n0::n2::n10::e41 n0::n2::n10::e40 n0::n2::n10::e154 n0::n2::e16 n0::n2::e17 n0::n2::e18 n0::n2::e19 n0::n2::e12 n0::n2::e13 n0::n2::e14 n0::n2::e15 n0::n2::n10::e29 n0::n2::n10::e28 n0::n2::n10::e25 n0::n2::n10::e24 n0::n2::n10::e27 n0::n2::n10::e26 n0::n2::n10::e32 n0::n2::n10::e31 n0::n2::n10::e34 n0::n2::n10::e33 n0::n2::n10::e30 n0::n2::e23 n0::n2::e24 n0::n2::e25 n0::n2::n10::e18 n0::n2::n10::e17 n0::n2::n10::e19 n0::n2::n10::e14 n0::n2::n10::e13 n0::n2::n10::e16 n0::n2::n10::e15 n0::n2::n10::e21 n0::n2::n10::e135 n0::n2::n10::e20 n0::n2::n10::e134 n0::n2::n10::e23 n0::n2::n10::e137 n0::n2::n10::e22 n0::n2::n10::e136 n0::n2::n10::e131 n0::n2::n10::e130 n0::n2::n10::e133 n0::n2::n10::e132 n0::n2::n10::e139 n0::n2::n10::e138 n0::n2::n10::e140 n0::n2::n10::e10 n0::n2::n10::e146 n0::n2::n10::e145 n0::n2::n10::e12 n0::n2::n10::e148 n0::n2::n10::e11 n0::n2::n10::e147 n0::n2::n10::e142 n0::n2::n10::e141 n0::n2::n10::e144 n0::n2::n10::e143 n0::n2::n10::e149 n0::n2::n10::e113 n0::n2::n10::e112 n0::n2::n10::e115 n0::n2::n10::e114 n0::n2::n10::e111 n0::n2::n10::e110 n0::n2::n10::e117 n0::n2::n10::e116 n0::n2::n10::e119 n0::n2::n10::e118 n0::n2::n10::e124 n0::n2::n10::e123 n0::n2::n10::e126 n0::n2::n10::e125 n0::n2::n10::e120 n0::n2::n10::e122 n0::n2::n10::e121 n0::n2::n10::e128 n0::n2::n10::e127 n0::n2::n10::e129 n0::n2::n10::e102 n0::n2::n10::e101 n0::n2::n10::e104 n0::n2::n10::e103 n0::n2::n10::e100 n0::n2::n10::e109 n0::n2::n10::e106 n0::n2::n10::e105 n0::n2::n10::e108 n0::n2::n10::e107 n0::n2::e0 n0::n2::e2 n0::n2::e1 n0::n2::e4 n0::n2::e3 n0::n2::e6 n0::n2::e5 n0::n2::e8 n0::n2::e7 n0::n2::e9 n0::n2::n10::e98 n0::n2::n10::e97 n0::n2::n10::e99 n0::n2::n10::e94 n0::n2::n10::e93 n0::n2::n10::e96 n0::n2::n10::e95 n0::n2::n10::e90 n0::n2::n10::e92 n0::n2::n10::e91">
+                        <g fill="color_5" fontSize="10.0" stroke="color_5" strokeWidth="1.0"/>
+                    </style>
+                </listOfStyles>
+            </renderInformation>
+        </extension>
+        <glyph class="compartment" id="n0">
+            <label text="Th2:extracellular"/>
+            <bbox w="4598.7324" h="3164.1504" x="0.0" y="0.0"/>
+        </glyph>
+        <glyph class="compartment" id="n0::n2">
+            <label text="Th2:membrane"/>
+            <bbox w="4566.7324" h="3033.662" x="16.0" y="115.48828"/>
+        </glyph>
+        <glyph class="compartment" id="n0::n2::n10">
+            <label text="Th2:cytosol"/>
+            <bbox w="4503.066" h="2601.4414" x="32.0" y="437.70898"/>
+        </glyph>
+        <glyph class="compartment" id="n0::n2::n10::n104">
+            <label text="Th2:endoplasmic reticulum"/>
+            <bbox w="262.0" h="120.48828" x="991.23254" y="2643.662"/>
+        </glyph>
+        <glyph class="compartment" id="n0::n2::n10::n105">
+            <label text="Th2:nucleus"/>
+            <bbox w="2160.0913" h="375.48828" x="1673.2325" y="1678.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n0" compartmentRef="n0">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n0"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IFNG"/>
+            <bbox w="100.0" h="60.0" x="3693.3237" y="35.48828"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n1" compartmentRef="n0">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n1"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IL33"/>
+            <bbox w="100.0" h="60.0" x="4345.5537" y="35.48828"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n0" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n0"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IFNGR1;&#10;IFNGR2"/>
+            <bbox w="100.0" h="60.0" x="3693.3237" y="320.97656"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n1" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n1"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IL1RL1"/>
+            <bbox w="100.0" h="60.0" x="4091.6572" y="3074.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n2" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n2"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IL1RAP"/>
+            <bbox w="100.0" h="60.0" x="4142.0415" y="320.97656"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n3" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n3"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CD28"/>
+            <bbox w="100.0" h="60.0" x="305.69485" y="320.97656"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n4" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n4"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CD4"/>
+            <bbox w="100.0" h="60.0" x="648.00916" y="150.97656"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n5" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n5"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="HLA-DMA;HLA-DMB;HLA-DOA;HLA-DOB;HLA-DPA1;&#10;HLA-DPB1;HLA-DPB2;HLA-DQA1;HLA-DQA2;&#10;HLA-DQB1;HLA-DQB2;HLA-DQB3;HLA-DRA;&#10;HLA-DRB1;HLA-DRB3;HLA-DRB4;HLA-DRB5;LOC100509457"/>
+            <bbox w="100.0" h="60.0" x="846.23254" y="235.97656"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n6" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n6"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CD80"/>
+            <bbox w="100.0" h="60.0" x="410.69485" y="235.97656"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n7" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n7"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CD86"/>
+            <bbox w="100.0" h="60.0" x="280.69485" y="235.97656"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n8" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n8"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="LAT"/>
+            <bbox w="100.0" h="60.0" x="736.23254" y="3074.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n9" compartmentRef="n0::n2">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n9"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRAC;TRAJ18;TRAV24;&#10;TRB;TRBV11-1;TRBV11-2;&#10;TRBV11-3;TRBV17"/>
+            <bbox w="100.0" h="60.0" x="846.23254" y="320.97656"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n0" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n0"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**ATM/ART &#10;regulation of &#10;G1/S checkpoint"/>
+            <bbox w="140.0" h="70.0" x="3613.3237" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n1" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n1"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Cell cycle &#10;regulation"/>
+            <bbox w="140.0" h="70.0" x="3613.3237" y="2423.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n2" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n2"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Regulation &#10;of EIF2 activity"/>
+            <bbox w="140.0" h="70.0" x="3183.3237" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n3" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n3"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Regulation of &#10;translation"/>
+            <bbox w="140.0" h="70.0" x="1704.2325" y="2423.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n4" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n4"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Regulation &#10;of EIF4F activity"/>
+            <bbox w="140.0" h="70.0" x="143.34406" y="1563.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n5" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n5"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*1,2-Diacyglycerol"/>
+            <bbox w="100.0" h="60.0" x="1283.2325" y="2543.662"/>
+            <glyph class="unit of information" id="1_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n6" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n6"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PRKCA"/>
+            <bbox w="100.0" h="60.0" x="1413.2325" y="2689.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n7" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n7"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PRKCD"/>
+            <bbox w="100.0" h="60.0" x="1283.2325" y="2689.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n8" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n8"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="AFAP1"/>
+            <bbox w="100.0" h="60.0" x="1388.2325" y="2789.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n9" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n9"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="SRC"/>
+            <bbox w="100.0" h="60.0" x="1453.2325" y="2879.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n10" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n10"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="AKT1;&#10;AKT2;&#10;AKT3"/>
+            <bbox w="100.0" h="60.0" x="497.41824" y="1473.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n11" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n11"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="RAPGEF1"/>
+            <bbox w="100.0" h="60.0" x="1036.2325" y="1283.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n12" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n12"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="RAP1A"/>
+            <bbox w="100.0" h="60.0" x="1036.2325" y="1373.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n13" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n13"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*Ca('2+)"/>
+            <bbox w="100.0" h="60.0" x="1112.2325" y="2789.1504"/>
+            <glyph class="unit of information" id="2_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n14" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n14"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CALM1;&#10;CALM2;&#10;CALM3"/>
+            <bbox w="100.0" h="60.0" x="1112.2325" y="2879.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n15" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n15"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CAMK2A;&#10;CAMK2B;CAMK2D;&#10;CAMK2G"/>
+            <bbox w="100.0" h="60.0" x="1137.2325" y="2964.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n16" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n16"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CRKL"/>
+            <bbox w="100.0" h="60.0" x="1036.2325" y="1203.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n17" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n17"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAPK1;&#10;MAPK3"/>
+            <bbox w="100.0" h="60.0" x="3733.3237" y="1568.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n18" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n18"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="FANCC"/>
+            <bbox w="100.0" h="60.0" x="3603.3237" y="1568.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n19" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n19"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="ICAM1"/>
+            <bbox w="100.0" h="60.0" x="2374.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n20" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n20"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Cell adhesion"/>
+            <bbox w="140.0" h="70.0" x="2143.0342" y="2263.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n21" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n21"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="JAK1"/>
+            <bbox w="100.0" h="60.0" x="3483.3237" y="2268.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n22" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n22"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="JAK2"/>
+            <bbox w="100.0" h="60.0" x="3353.3237" y="2268.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n23" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n23"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP3K1"/>
+            <bbox w="100.0" h="60.0" x="3758.3237" y="1373.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n24" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n24"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CBL"/>
+            <bbox w="100.0" h="60.0" x="826.23254" y="1108.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n25" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n25"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*IP3"/>
+            <bbox w="100.0" h="60.0" x="991.23254" y="2543.662"/>
+            <glyph class="unit of information" id="3_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n26" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n26"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="SOCS1"/>
+            <bbox w="100.0" h="60.0" x="3393.3237" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n27" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n27"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="EIF2AK2"/>
+            <bbox w="100.0" h="60.0" x="3203.3237" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n28" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n28"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CDKN1A"/>
+            <bbox w="100.0" h="60.0" x="3588.3237" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n29" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n29"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PLCG2"/>
+            <bbox w="100.0" h="60.0" x="3044.2324" y="2428.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n30" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n30"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PTK2B"/>
+            <bbox w="100.0" h="60.0" x="3953.3237" y="2428.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n31" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n31"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K1;&#10;MAP2K2"/>
+            <bbox w="100.0" h="60.0" x="3758.3237" y="1473.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n32" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n32"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K6"/>
+            <bbox w="100.0" h="60.0" x="1543.2325" y="2689.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n33" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n33"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAPK14;&#10;MAPK11;MAPK13;&#10;MAPK12"/>
+            <bbox w="100.0" h="60.0" x="1605.8992" y="2789.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n34" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n34"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP3K4"/>
+            <bbox w="100.0" h="60.0" x="3978.3237" y="2543.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n35" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n35"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PDPK1"/>
+            <bbox w="100.0" h="60.0" x="278.5766" y="1473.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n36" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n36"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PIK3CA;&#10;PIK3CB;&#10;PIK3CD"/>
+            <bbox w="100.0" h="60.0" x="326.52817" y="1283.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n37" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n37"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*PtdIns(3,4,5)P3"/>
+            <bbox w="100.0" h="60.0" x="303.5766" y="1373.1738"/>
+            <glyph class="unit of information" id="4_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n38" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n38"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PIK3R1;&#10;PIK3R2;&#10;PIK3R3"/>
+            <bbox w="100.0" h="60.0" x="326.52817" y="1203.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n39" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n39"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*PtdIns(4,5)P2"/>
+            <bbox w="100.0" h="60.0" x="48.111507" y="1283.1738"/>
+            <glyph class="unit of information" id="5_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n40" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n40"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Inhibition of &#10;cell proliferation"/>
+            <bbox w="140.0" h="70.0" x="1016.23254" y="1468.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n41" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n41"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PTPN11"/>
+            <bbox w="100.0" h="60.0" x="4018.3237" y="2268.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n42" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n42"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**TGF-beta &#10;receptor &#10;signaling"/>
+            <bbox w="140.0" h="70.0" x="3718.3237" y="2113.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n43" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n43"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**GM-CSF &#10;signalling"/>
+            <bbox w="140.0" h="70.0" x="1894.2325" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n44" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n44"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Inflammatory &#10;response"/>
+            <bbox w="140.0" h="70.0" x="2416.2324" y="2423.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n45" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n45"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**IL-13 signaling &#10;via JAK-STAT"/>
+            <bbox w="140.0" h="70.0" x="2834.2324" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n46" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n46"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**IL-13 signaling &#10;via PI3K-ERK"/>
+            <bbox w="140.0" h="70.0" x="2664.2324" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n47" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n47"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**IL-5 signalling"/>
+            <bbox w="140.0" h="70.0" x="3004.2324" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n48" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n48"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**IL-6 signalling &#10;pathway"/>
+            <bbox w="140.0" h="70.0" x="2494.2324" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n49" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n49"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**IL-8 dependent &#10;cell migration &#10;and adhesion"/>
+            <bbox w="140.0" h="70.0" x="1724.2325" y="2263.662"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n50" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n50"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Inhibitory action of &#10;Lipoxins on &#10;pro-inflammatory &#10;TNF-alpha signalling"/>
+            <bbox w="140.0" h="70.0" x="2318.6333" y="2263.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n51" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n51"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="NOS3"/>
+            <bbox w="100.0" h="60.0" x="497.41824" y="1568.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n52" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n52"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CCL2"/>
+            <bbox w="100.0" h="60.0" x="2244.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n53" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n53"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="SELE"/>
+            <bbox w="100.0" h="60.0" x="2114.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n54" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n54"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="RPS6KA5"/>
+            <bbox w="100.0" h="60.0" x="3888.3237" y="1828.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n55" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n55"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CSF2"/>
+            <bbox w="100.0" h="60.0" x="1854.2325" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n56" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n56"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CXCL1"/>
+            <bbox w="100.0" h="60.0" x="2634.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n57" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n57"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="H2AFX;H2AFZ;HIST1H2AC;&#10;HIST1H2AD;HIST1H2AG;HIST1H2AI;&#10;HIST1H2AJ;HIST1H2AK;HIST1H2AL;&#10;HIST1H2AM;HIST2H2AC"/>
+            <bbox w="100.0" h="60.0" x="4345.5537" y="478.17383"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n58" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n58"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="H2BFS;HIST1H2BB;HIST1H2BC;HIST1H2BD;&#10;HIST1H2BE;HIST1H2BF;HIST1H2BG;HIST1H2BH;&#10;HIST1H2BI;HIST1H2BJ;HIST1H2BL;HIST1H2BM;&#10;HIST1H2BN;HIST1H2BO;HIST2H2BE;LOC102724334"/>
+            <bbox w="100.0" h="60.0" x="4292.0283" y="573.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n59" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n59"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IKBKB;&#10;CHUK"/>
+            <bbox w="100.0" h="60.0" x="1685.7325" y="1568.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n60" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n60"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IKBKG"/>
+            <bbox w="100.0" h="60.0" x="1554.8992" y="1108.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n61" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n61"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IL13"/>
+            <bbox w="100.0" h="60.0" x="2894.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n62" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n62"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IL17F"/>
+            <bbox w="100.0" h="60.0" x="3888.3237" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n63" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n63"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IL5"/>
+            <bbox w="100.0" h="60.0" x="3024.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n64" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n64"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IL6"/>
+            <bbox w="100.0" h="60.0" x="2764.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n65" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n65"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CXCL8"/>
+            <bbox w="100.0" h="60.0" x="1724.2325" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n66" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n66"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MYD88"/>
+            <bbox w="100.0" h="60.0" x="1814.8992" y="913.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n67" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n67"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRAK1"/>
+            <bbox w="100.0" h="60.0" x="1867.3992" y="1013.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n68" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n68"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRAF6"/>
+            <bbox w="100.0" h="60.0" x="1737.3992" y="1108.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n69" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n69"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRAK4"/>
+            <bbox w="100.0" h="60.0" x="1737.3992" y="1013.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n70" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n70"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAPK10;&#10;MAPK8;&#10;MAPK9"/>
+            <bbox w="100.0" h="60.0" x="1993.2325" y="1568.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n71" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n71"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K3"/>
+            <bbox w="100.0" h="60.0" x="1608.2325" y="1473.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n72" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n72"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K4"/>
+            <bbox w="100.0" h="60.0" x="2018.2325" y="1473.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n73" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n73"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K7"/>
+            <bbox w="100.0" h="60.0" x="1888.2325" y="1473.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n74" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n74"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*N-omega-&#10;Hydroxy-&#10;L-arginine"/>
+            <bbox w="100.0" h="60.0" x="821.23254" y="1568.1738"/>
+            <glyph class="unit of information" id="6_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n75" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n75"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*L-Citrulline"/>
+            <bbox w="100.0" h="60.0" x="821.23254" y="1828.6621"/>
+            <glyph class="unit of information" id="7_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n76" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n76"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*NO"/>
+            <bbox w="100.0" h="60.0" x="497.41824" y="1828.6621"/>
+            <glyph class="unit of information" id="8_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n77" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n77"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TNF"/>
+            <bbox w="100.0" h="60.0" x="2504.2324" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n78" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n78"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="VCAM1"/>
+            <bbox w="100.0" h="60.0" x="1984.2325" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n79" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n79"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP3K14"/>
+            <bbox w="100.0" h="60.0" x="1758.2325" y="1473.1738"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n80" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n80"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Angiogenesis"/>
+            <bbox w="140.0" h="70.0" x="466.23254" y="2113.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n81" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n81"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TMED1"/>
+            <bbox w="100.0" h="60.0" x="4099.99" y="478.17383"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n82" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n82"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TAB1"/>
+            <bbox w="100.0" h="60.0" x="1619.8992" y="1283.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n83" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n83"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP3K7"/>
+            <bbox w="100.0" h="60.0" x="1749.8992" y="1373.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n84" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n84"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TAB2"/>
+            <bbox w="100.0" h="60.0" x="1749.8992" y="1283.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n85" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n85"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="UBB;UBC"/>
+            <bbox w="100.0" h="60.0" x="1607.3992" y="1013.1738"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n86" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n86"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Regulation of &#10;actin cytoskeleton &#10;by Rho GTPases"/>
+            <bbox w="140.0" h="70.0" x="631.23254" y="2784.1504"/>
+        </glyph>
+        <glyph class="submap" id="n0::n2::n10::n87" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n87"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="**Cytoskeleton &#10;remodeling"/>
+            <bbox w="140.0" h="70.0" x="631.23254" y="2874.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n88" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n88"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PRKCQ"/>
+            <bbox w="100.0" h="60.0" x="861.23254" y="2689.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n89" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n89"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="BCL10"/>
+            <bbox w="100.0" h="60.0" x="1557.3992" y="748.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n90" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n90"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="UBE2N"/>
+            <bbox w="100.0" h="60.0" x="1607.3992" y="833.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n91" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n91"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MALT1"/>
+            <bbox w="100.0" h="60.0" x="1557.3992" y="913.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n92" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n92"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CARD11"/>
+            <bbox w="100.0" h="60.0" x="1557.3992" y="668.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n93" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n93"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="GRAP2"/>
+            <bbox w="100.0" h="60.0" x="571.23254" y="2268.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n94" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n94"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="GRB2"/>
+            <bbox w="100.0" h="60.0" x="636.23254" y="2118.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n95" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n95"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="ITK"/>
+            <bbox w="100.0" h="60.0" x="951.23254" y="2268.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n96" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n96"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CD247;&#10;CD3D;CD3E;&#10;CD3G"/>
+            <bbox w="100.0" h="60.0" x="821.23254" y="573.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n97" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n97"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="ZAP70"/>
+            <bbox w="100.0" h="60.0" x="761.23254" y="668.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n98" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n98"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="LCK"/>
+            <bbox w="100.0" h="60.0" x="761.23254" y="478.17383"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n99" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n99"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="LCP2"/>
+            <bbox w="100.0" h="60.0" x="663.73254" y="2428.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n100" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n100"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="PLCG1"/>
+            <bbox w="100.0" h="60.0" x="984.56586" y="2428.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n101" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n101"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="UBE2V2"/>
+            <bbox w="100.0" h="60.0" x="1687.3992" y="748.1738"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n102" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n102"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="RAC1"/>
+            <bbox w="100.0" h="60.0" x="651.23254" y="2689.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n103" compartmentRef="n0::n2::n10">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n103"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="VAV1"/>
+            <bbox w="100.0" h="60.0" x="651.23254" y="2543.662"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n104::n0" compartmentRef="n0::n2::n10::n104">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n104::n0"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="*Ca('2+)"/>
+            <bbox w="100.0" h="60.0" x="1007.23254" y="2689.1504"/>
+            <glyph class="unit of information" id="9_0">
+                <entity name="simple chemical"/>
+                <bbox w="20.0" h="20.0" x="0.0" y="0.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n104::n1" compartmentRef="n0::n2::n10::n104">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n104::n1"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="ITPR1;&#10;ITPR2;&#10;ITPR3"/>
+            <bbox w="100.0" h="60.0" x="1137.2325" y="2689.1504"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n0" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n0"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="BRCA1"/>
+            <bbox w="100.0" h="60.0" x="3408.3237" y="1713.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n1" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n1"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="STAT1;&#10;IRF9;STAT2"/>
+            <bbox w="100.0" h="60.0" x="3384.233" y="1828.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n2" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n2"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CEBPB"/>
+            <bbox w="100.0" h="60.0" x="3538.3237" y="1713.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n3" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n3"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CREBBP"/>
+            <bbox w="100.0" h="60.0" x="3148.3237" y="1713.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n4" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n4"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF1"/>
+            <bbox w="100.0" h="60.0" x="3393.3237" y="1978.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n5" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n5"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="SMAD7"/>
+            <bbox w="100.0" h="60.0" x="3717.3237" y="1978.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n6" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n6"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MYC"/>
+            <bbox w="100.0" h="60.0" x="3523.3237" y="1978.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n7" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n7"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MCM5"/>
+            <bbox w="100.0" h="60.0" x="3278.3237" y="1713.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n8" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n8"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="EP300"/>
+            <bbox w="100.0" h="60.0" x="3018.3237" y="1713.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n9" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n9"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="ATF2"/>
+            <bbox w="100.0" h="60.0" x="1689.2325" y="1713.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n10" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n10"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="NFKBIA;&#10;NFKBIB;&#10;NFKBIE"/>
+            <bbox w="100.0" h="60.0" x="2888.3237" y="1713.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n11" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n11"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="RELA;REL;&#10;NFKB1;RELB;&#10;NFKB2"/>
+            <bbox w="100.0" h="60.0" x="2249.2324" y="1828.6621"/>
+        </glyph>
+        <glyph class="biological activity" id="n0::n2::n10::n105::n12" compartmentRef="n0::n2::n10::n105">
+            <extension>
+                <annotation xmlns:ns2="http://sbgn.org/libsbgn/0.2" xmlns="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <rdf:Description rdf:about="#n0::n2::n10::n105::n12"/>
+                    </rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="JUN"/>
+            <bbox w="100.0" h="60.0" x="1993.2325" y="1713.6621"/>
+        </glyph>
+        <arc class="positive influence" id="n0::n2::n10::e0" source="n0::n2::n10::n0" target="n0::n2::n10::n1">
+            <start x="3683.3237" y="2333.662"/>
+            <end x="3683.3237" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e1" source="n0::n2::n10::n2" target="n0::n2::n10::n3">
+            <start x="3253.3237" y="2333.662"/>
+            <next x="3253.3237" y="2353.662"/>
+            <next x="1809.2325" y="2353.662"/>
+            <end x="1809.2325" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e2" source="n0::n2::n10::n4" target="n0::n2::n10::n3">
+            <start x="213.34406" y="1633.1738"/>
+            <next x="213.34406" y="2203.662"/>
+            <next x="1066.2325" y="2203.662"/>
+            <next x="1066.2325" y="2393.662"/>
+            <next x="1739.2325" y="2393.662"/>
+            <end x="1739.2325" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e3" source="n0::n2::n10::n5" target="n0::n2::n10::n6">
+            <start x="1366.5659" y="2603.662"/>
+            <next x="1366.5659" y="2613.662"/>
+            <next x="1463.2325" y="2613.662"/>
+            <end x="1463.2325" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e4" source="n0::n2::n10::n5" target="n0::n2::n10::n7">
+            <start x="1333.2325" y="2603.662"/>
+            <end x="1333.2325" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e5" source="n0::n2::n10::n8" target="n0::n2::n10::n9">
+            <start x="1438.2325" y="2849.1504"/>
+            <next x="1438.2325" y="2859.1504"/>
+            <next x="1469.8992" y="2859.1504"/>
+            <end x="1469.8992" y="2879.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e6" source="n0::n2::n10::n10" target="n0::n2::n10::n4">
+            <start x="514.0849" y="1533.1738"/>
+            <next x="514.0849" y="1543.1738"/>
+            <next x="213.34406" y="1543.1738"/>
+            <end x="213.34406" y="1563.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e0" source="n0::n2::n10::n105::n0" target="n0::n2::n10::n105::n1">
+            <start x="3458.3237" y="1773.6621"/>
+            <next x="3458.3237" y="1783.6621"/>
+            <next x="3434.233" y="1783.6621"/>
+            <end x="3434.233" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e1" source="n0::n2::n10::n105::n2" target="n0::n2::n10::n105::n1">
+            <start x="3588.3237" y="1773.6621"/>
+            <next x="3588.3237" y="1803.6621"/>
+            <next x="3462.8044" y="1803.6621"/>
+            <end x="3462.8044" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e7" source="n0::n2::n10::n11" target="n0::n2::n10::n12">
+            <start x="1086.2325" y="1343.1738"/>
+            <end x="1086.2325" y="1373.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e2" source="n0::n2::n10::n105::n3" target="n0::n2::n10::n105::n1">
+            <start x="3198.3237" y="1773.6621"/>
+            <next x="3198.3237" y="1793.6621"/>
+            <next x="3405.6616" y="1793.6621"/>
+            <end x="3405.6614" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e8" source="n0::n2::n10::n13" target="n0::n2::n10::n14">
+            <start x="1162.2325" y="2849.1504"/>
+            <end x="1162.2325" y="2879.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e9" source="n0::n2::n10::n104::n0" target="n0::n2::n10::n13">
+            <start x="1057.2325" y="2749.1504"/>
+            <next x="1057.2325" y="2774.1504"/>
+            <next x="1137.2325" y="2774.1504"/>
+            <end x="1137.2325" y="2789.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e10" source="n0::n2::n10::n15" target="n0::n2::n10::n105::n1">
+            <start x="1212.2325" y="2964.1504"/>
+            <next x="1212.2325" y="2949.1504"/>
+            <next x="1568.2325" y="2949.1504"/>
+            <next x="1568.2325" y="2859.1504"/>
+            <next x="3159.2324" y="2859.1504"/>
+            <next x="3159.2324" y="1928.6621"/>
+            <next x="3397.8694" y="1928.6621"/>
+            <end x="3397.8694" y="1888.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e11" source="n0::n2::n10::n14" target="n0::n2::n10::n15">
+            <start x="1162.2325" y="2939.1504"/>
+            <end x="1162.2325" y="2964.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e12" source="n0::n2::n10::n16" target="n0::n2::n10::n11">
+            <start x="1086.2325" y="1263.1738"/>
+            <end x="1086.2325" y="1283.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e13" source="n0::n2::n10::n17" target="n0::n2::n10::n105::n2">
+            <start x="3758.3237" y="1628.1738"/>
+            <next x="3758.3237" y="1638.1738"/>
+            <next x="3588.3237" y="1638.1738"/>
+            <end x="3588.3237" y="1713.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e14" source="n0::n2::n10::n18" target="n0::n2::n10::n105::n1">
+            <start x="3653.3237" y="1628.1738"/>
+            <next x="3653.3237" y="1813.6621"/>
+            <next x="3477.09" y="1813.6621"/>
+            <end x="3477.09" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e15" source="n0::n2::n10::n19" target="n0::n2::n10::n20">
+            <start x="2424.2324" y="2178.662"/>
+            <next x="2424.2324" y="2198.662"/>
+            <next x="2265.5342" y="2198.662"/>
+            <end x="2265.5342" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::e0" source="n0::n0" target="n0::n2::n0">
+            <start x="3743.3237" y="95.48828"/>
+            <end x="3743.3237" y="320.97656"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e0" source="n0::n2::n0" target="n0::n2::n10::n105::n1">
+            <start x="3723.3237" y="380.97656"/>
+            <next x="3723.3237" y="417.70898"/>
+            <next x="3523.3237" y="417.70898"/>
+            <next x="3523.3237" y="1793.6621"/>
+            <next x="3448.5186" y="1793.6621"/>
+            <end x="3448.5186" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e1" source="n0::n2::n0" target="n0::n2::n10::n21">
+            <start x="3783.3237" y="380.97656"/>
+            <next x="3783.3237" y="390.97656"/>
+            <next x="3873.3237" y="390.97656"/>
+            <next x="3873.3237" y="2203.662"/>
+            <next x="3566.6572" y="2203.662"/>
+            <end x="3566.657" y="2268.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e2" source="n0::n2::n0" target="n0::n2::n10::n22">
+            <start x="3743.3237" y="380.97656"/>
+            <next x="3743.3237" y="1558.1738"/>
+            <next x="3848.3237" y="1558.1738"/>
+            <next x="3848.3237" y="2073.662"/>
+            <next x="3573.3237" y="2073.662"/>
+            <next x="3573.3237" y="2188.662"/>
+            <next x="3440.8237" y="2188.662"/>
+            <end x="3440.8237" y="2268.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e3" source="n0::n2::n0" target="n0::n2::n10::n23">
+            <start x="3763.3237" y="380.97656"/>
+            <next x="3763.3237" y="400.97656"/>
+            <next x="3808.3237" y="400.97656"/>
+            <end x="3808.3237" y="1373.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e4" source="n0::n2::n0" target="n0::n2::n10::n24">
+            <start x="3703.3237" y="380.97656"/>
+            <next x="3703.3237" y="407.70898"/>
+            <next x="876.23254" y="407.70898"/>
+            <next x="876.23254" y="548.1738"/>
+            <next x="806.23254" y="548.1738"/>
+            <next x="806.23254" y="643.1738"/>
+            <next x="876.23254" y="643.1738"/>
+            <end x="876.23254" y="1108.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e16" source="n0::n2::n10::n25" target="n0::n2::n10::n104::n1">
+            <start x="1041.2325" y="2603.662"/>
+            <next x="1041.2325" y="2613.662"/>
+            <next x="1187.2325" y="2613.662"/>
+            <end x="1187.2325" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e17" source="n0::n2::n10::n104::n1" target="n0::n2::n10::n13">
+            <start x="1187.2325" y="2749.1504"/>
+            <end x="1187.2325" y="2789.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e18" source="n0::n2::n10::n105::n4" target="n0::n2::n10::n26">
+            <start x="3443.3237" y="2038.6621"/>
+            <end x="3443.3237" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e19" source="n0::n2::n10::n105::n1" target="n0::n2::n10::n19">
+            <start x="3388.7783" y="1888.6621"/>
+            <next x="3388.7783" y="1918.6621"/>
+            <next x="2449.2324" y="1918.6621"/>
+            <end x="2449.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e3" source="n0::n2::n10::n105::n1" target="n0::n2::n10::n105::n4">
+            <start x="3443.3237" y="1888.6621"/>
+            <end x="3443.3237" y="1978.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e20" source="n0::n2::n10::n105::n1" target="n0::n2::n10::n27">
+            <start x="3416.051" y="1888.6621"/>
+            <next x="3416.051" y="1948.6621"/>
+            <next x="3253.3237" y="1948.6621"/>
+            <end x="3253.3237" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e4" source="n0::n2::n10::n105::n1" target="n0::n2::n10::n105::n5">
+            <start x="3479.6875" y="1888.6621"/>
+            <next x="3479.6875" y="1898.6621"/>
+            <next x="3767.3237" y="1898.6621"/>
+            <end x="3767.3237" y="1978.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e5" source="n0::n2::n10::n105::n1" target="n0::n2::n10::n105::n6">
+            <start x="3461.5056" y="1888.6621"/>
+            <next x="3461.5056" y="1918.6621"/>
+            <next x="3573.3237" y="1918.6621"/>
+            <end x="3573.3237" y="1978.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e21" source="n0::n2::n10::n105::n1" target="n0::n2::n10::n28">
+            <start x="3470.5964" y="1888.6621"/>
+            <next x="3470.5967" y="1908.6621"/>
+            <next x="3638.3237" y="1908.6621"/>
+            <end x="3638.3237" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e22" source="n0::n2::n10::n21" target="n0::n2::n10::n105::n1">
+            <start x="3533.3237" y="2268.662"/>
+            <next x="3533.3237" y="2198.662"/>
+            <next x="3508.3237" y="2198.662"/>
+            <next x="3508.3237" y="1928.6621"/>
+            <next x="3452.4148" y="1928.6621"/>
+            <end x="3452.4148" y="1888.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e23" source="n0::n2::n10::n21" target="n0::n2::n10::n29">
+            <start x="3533.3237" y="2328.662"/>
+            <next x="3533.3237" y="2413.662"/>
+            <next x="3119.2324" y="2413.662"/>
+            <end x="3119.2324" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e24" source="n0::n2::n10::n22" target="n0::n2::n10::n105::n1">
+            <start x="3390.8237" y="2268.662"/>
+            <next x="3390.8237" y="2188.662"/>
+            <next x="3378.3237" y="2188.662"/>
+            <next x="3378.3237" y="1968.6621"/>
+            <next x="3434.233" y="1968.6621"/>
+            <end x="3434.233" y="1888.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e25" source="n0::n2::n10::n22" target="n0::n2::n10::n29">
+            <start x="3369.9905" y="2328.662"/>
+            <next x="3369.9905" y="2393.662"/>
+            <next x="3069.2324" y="2393.662"/>
+            <end x="3069.2324" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e26" source="n0::n2::n10::n22" target="n0::n2::n10::n30">
+            <start x="3436.657" y="2328.662"/>
+            <next x="3436.6572" y="2343.662"/>
+            <next x="3978.3237" y="2343.662"/>
+            <end x="3978.3237" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e6" source="n0::n2::n10::n105::n7" target="n0::n2::n10::n105::n1">
+            <start x="3328.3237" y="1773.6621"/>
+            <next x="3328.3237" y="1783.6621"/>
+            <next x="3419.9473" y="1783.6621"/>
+            <end x="3419.9473" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e27" source="n0::n2::n10::n31" target="n0::n2::n10::n17">
+            <start x="3783.3237" y="1533.1738"/>
+            <end x="3783.3237" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e28" source="n0::n2::n10::n32" target="n0::n2::n10::n33">
+            <start x="1593.2325" y="2749.1504"/>
+            <next x="1593.2325" y="2759.1504"/>
+            <next x="1622.5659" y="2759.1504"/>
+            <end x="1622.5658" y="2789.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e29" source="n0::n2::n10::n23" target="n0::n2::n10::n31">
+            <start x="3808.3237" y="1433.1738"/>
+            <end x="3808.3237" y="1473.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e30" source="n0::n2::n10::n34" target="n0::n2::n10::n32">
+            <start x="4028.3237" y="2603.662"/>
+            <next x="4028.3237" y="2633.662"/>
+            <next x="1618.2325" y="2633.662"/>
+            <end x="1618.2325" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e31" source="n0::n2::n10::n35" target="n0::n2::n10::n7">
+            <start x="328.5766" y="1533.1738"/>
+            <next x="328.5766" y="2633.662"/>
+            <next x="1299.8992" y="2633.662"/>
+            <end x="1299.8992" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e32" source="n0::n2::n10::n36" target="n0::n2::n10::n37">
+            <start x="376.52817" y="1343.1738"/>
+            <next x="376.52817" y="1353.1738"/>
+            <next x="378.5766" y="1353.1738"/>
+            <end x="378.5766" y="1373.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e33" source="n0::n2::n10::n38" target="n0::n2::n10::n36">
+            <start x="376.52817" y="1263.1738"/>
+            <end x="376.52817" y="1283.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e34" source="n0::n2::n10::n6" target="n0::n2::n10::n8">
+            <start x="1438.2325" y="2749.1504"/>
+            <end x="1438.2325" y="2789.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e35" source="n0::n2::n10::n6" target="n0::n2::n10::n9">
+            <start x="1488.2325" y="2749.1504"/>
+            <next x="1488.2325" y="2759.1504"/>
+            <next x="1503.2325" y="2759.1504"/>
+            <end x="1503.2325" y="2879.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e36" source="n0::n2::n10::n7" target="n0::n2::n10::n105::n1">
+            <start x="1366.5659" y="2689.1504"/>
+            <next x="1366.5659" y="2623.662"/>
+            <next x="3338.3237" y="2623.662"/>
+            <next x="3338.3237" y="1958.6621"/>
+            <next x="3425.142" y="1958.6621"/>
+            <end x="3425.142" y="1888.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e37" source="n0::n2::n10::n27" target="n0::n2::n10::n2">
+            <start x="3253.3237" y="2178.662"/>
+            <end x="3253.3237" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e38" source="n0::n2::n10::n29" target="n0::n2::n10::n5">
+            <start x="3119.2324" y="2488.662"/>
+            <next x="3119.2324" y="2518.662"/>
+            <next x="1366.5659" y="2518.662"/>
+            <end x="1366.5659" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e39" source="n0::n2::n10::n29" target="n0::n2::n10::n25">
+            <start x="3069.2324" y="2488.662"/>
+            <next x="3069.2324" y="2508.662"/>
+            <next x="1074.5659" y="2508.662"/>
+            <end x="1074.5659" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e40" source="n0::n2::n10::n37" target="n0::n2::n10::n10">
+            <start x="378.5766" y="1433.1738"/>
+            <next x="378.5766" y="1443.1738"/>
+            <next x="547.4183" y="1443.1738"/>
+            <end x="547.4182" y="1473.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e41" source="n0::n2::n10::n37" target="n0::n2::n10::n35">
+            <start x="328.5766" y="1433.1738"/>
+            <end x="328.5766" y="1473.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e42" source="n0::n2::n10::n39" target="n0::n2::n10::n5">
+            <start x="98.11151" y="1343.1738"/>
+            <next x="98.11151" y="2518.662"/>
+            <next x="1299.8992" y="2518.662"/>
+            <end x="1299.8992" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e43" source="n0::n2::n10::n39" target="n0::n2::n10::n25">
+            <start x="64.778175" y="1343.1738"/>
+            <next x="64.778175" y="2528.662"/>
+            <next x="1007.89923" y="2528.662"/>
+            <end x="1007.89923" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e44" source="n0::n2::n10::n39" target="n0::n2::n10::n37">
+            <start x="131.44484" y="1343.1738"/>
+            <next x="131.44484" y="1353.1738"/>
+            <next x="328.5766" y="1353.1738"/>
+            <end x="328.5766" y="1373.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e45" source="n0::n2::n10::n30" target="n0::n2::n10::n34">
+            <start x="4003.3237" y="2488.662"/>
+            <end x="4003.3237" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e46" source="n0::n2::n10::n12" target="n0::n2::n10::n40">
+            <start x="1086.2325" y="1433.1738"/>
+            <end x="1086.2325" y="1468.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e47" source="n0::n2::n10::n41" target="n0::n2::n10::n34">
+            <start x="4093.3237" y="2328.662"/>
+            <next x="4093.3237" y="2338.662"/>
+            <next x="4113.3237" y="2338.662"/>
+            <next x="4113.3237" y="2498.662"/>
+            <next x="4053.3237" y="2498.662"/>
+            <end x="4053.3237" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e48" source="n0::n2::n10::n41" target="n0::n2::n10::n30">
+            <start x="4043.3237" y="2328.662"/>
+            <next x="4043.3237" y="2338.662"/>
+            <next x="4028.3237" y="2338.662"/>
+            <end x="4028.3237" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e49" source="n0::n2::n10::n105::n5" target="n0::n2::n10::n42">
+            <start x="3767.3237" y="2038.6621"/>
+            <next x="3767.3237" y="2063.662"/>
+            <next x="3788.3237" y="2063.662"/>
+            <end x="3788.3237" y="2113.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e50" source="n0::n2::n10::n26" target="n0::n2::n10::n21">
+            <start x="3468.3237" y="2178.662"/>
+            <next x="3468.3237" y="2208.662"/>
+            <next x="3499.9905" y="2208.662"/>
+            <end x="3499.9905" y="2268.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e51" source="n0::n2::n10::n26" target="n0::n2::n10::n22">
+            <start x="3418.3237" y="2178.662"/>
+            <next x="3418.3237" y="2188.662"/>
+            <next x="3415.8237" y="2188.662"/>
+            <end x="3415.8237" y="2268.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e52" source="n0::n2::n10::n24" target="n0::n2::n10::n16">
+            <start x="901.23254" y="1168.1738"/>
+            <next x="901.23254" y="1178.1738"/>
+            <next x="1086.2325" y="1178.1738"/>
+            <end x="1086.2325" y="1203.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e53" source="n0::n2::n10::n24" target="n0::n2::n10::n38">
+            <start x="851.23254" y="1168.1738"/>
+            <next x="851.23254" y="1178.1738"/>
+            <next x="376.52817" y="1178.1738"/>
+            <end x="376.52817" y="1203.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e54" source="n0::n2::n10::n105::n6" target="n0::n2::n10::n0">
+            <start x="3573.3237" y="2038.6621"/>
+            <next x="3573.3237" y="2063.662"/>
+            <next x="3553.3237" y="2063.662"/>
+            <next x="3553.3237" y="2213.662"/>
+            <next x="3648.3237" y="2213.662"/>
+            <end x="3648.3237" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e55" source="n0::n2::n10::n9" target="n0::n2::n10::n105::n1">
+            <start x="1536.5659" y="2879.1504"/>
+            <next x="1536.5659" y="2869.1504"/>
+            <next x="3168.3237" y="2869.1504"/>
+            <next x="3168.3237" y="1938.6621"/>
+            <next x="3406.9602" y="1938.6621"/>
+            <end x="3406.9602" y="1888.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e56" source="n0::n2::n10::n28" target="n0::n2::n10::n0">
+            <start x="3638.3237" y="2178.662"/>
+            <next x="3638.3237" y="2193.662"/>
+            <next x="3718.3237" y="2193.662"/>
+            <end x="3718.3237" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e7" source="n0::n2::n10::n105::n8" target="n0::n2::n10::n105::n1">
+            <start x="3068.3237" y="1773.6621"/>
+            <next x="3068.3237" y="1803.6621"/>
+            <next x="3391.3757" y="1803.6621"/>
+            <end x="3391.3757" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e57" source="n0::n2::n10::n33" target="n0::n2::n10::n105::n9">
+            <start x="1689.2325" y="2789.1504"/>
+            <next x="1689.2325" y="1788.6621"/>
+            <next x="1714.2325" y="1788.6621"/>
+            <end x="1714.2325" y="1773.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e58" source="n0::n2::n10::n43" target="n0::n2::n10::n44">
+            <start x="1964.2325" y="2333.662"/>
+            <next x="1964.2325" y="2363.662"/>
+            <next x="2451.2324" y="2363.662"/>
+            <end x="2451.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e59" source="n0::n2::n10::n45" target="n0::n2::n10::n44">
+            <start x="2904.2324" y="2333.662"/>
+            <next x="2904.2324" y="2373.662"/>
+            <next x="2521.2324" y="2373.662"/>
+            <end x="2521.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e60" source="n0::n2::n10::n46" target="n0::n2::n10::n44">
+            <start x="2734.2324" y="2333.662"/>
+            <next x="2734.2324" y="2363.662"/>
+            <next x="2507.2324" y="2363.662"/>
+            <end x="2507.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e61" source="n0::n2::n10::n47" target="n0::n2::n10::n44">
+            <start x="3074.2324" y="2333.662"/>
+            <next x="3074.2324" y="2383.662"/>
+            <next x="2535.2324" y="2383.662"/>
+            <end x="2535.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e62" source="n0::n2::n10::n48" target="n0::n2::n10::n44">
+            <start x="2564.2324" y="2333.662"/>
+            <next x="2564.2324" y="2343.662"/>
+            <next x="2493.2324" y="2343.662"/>
+            <end x="2493.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e63" source="n0::n2::n10::n49" target="n0::n2::n10::n44">
+            <start x="1794.2325" y="2333.662"/>
+            <next x="1794.2325" y="2373.662"/>
+            <next x="2437.2324" y="2373.662"/>
+            <end x="2437.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e64" source="n0::n2::n10::n50" target="n0::n2::n10::n44">
+            <start x="2388.6333" y="2333.662"/>
+            <next x="2388.6333" y="2343.662"/>
+            <next x="2465.2324" y="2343.662"/>
+            <end x="2465.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e65" source="n0::n2::n10::n10" target="n0::n2::n10::n51">
+            <start x="547.4182" y="1533.1738"/>
+            <end x="547.4182" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e66" source="n0::n2::n10::n105::n9" target="n0::n2::n10::n44">
+            <start x="1764.2325" y="1773.6621"/>
+            <next x="1764.2325" y="1798.6621"/>
+            <next x="1709.2325" y="1798.6621"/>
+            <next x="1709.2325" y="2383.662"/>
+            <next x="2423.2324" y="2383.662"/>
+            <end x="2423.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e67" source="n0::n2::n10::n52" target="n0::n2::n10::n20">
+            <start x="2294.2324" y="2178.662"/>
+            <next x="2294.2324" y="2188.662"/>
+            <next x="2230.5342" y="2188.662"/>
+            <end x="2230.5342" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e68" source="n0::n2::n10::n53" target="n0::n2::n10::n20">
+            <start x="2164.2324" y="2178.662"/>
+            <next x="2164.2324" y="2188.662"/>
+            <next x="2195.5342" y="2188.662"/>
+            <end x="2195.5342" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e69" source="n0::n2::n10::n17" target="n0::n2::n10::n54">
+            <start x="3808.3237" y="1628.1738"/>
+            <next x="3808.3237" y="1638.1738"/>
+            <next x="3938.3237" y="1638.1738"/>
+            <end x="3938.3237" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e70" source="n0::n2::n10::n55" target="n0::n2::n10::n43">
+            <start x="1904.2325" y="2178.662"/>
+            <next x="1904.2325" y="2188.662"/>
+            <next x="1964.2325" y="2188.662"/>
+            <end x="1964.2325" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e71" source="n0::n2::n10::n56" target="n0::n2::n10::n44">
+            <start x="2684.2324" y="2178.662"/>
+            <next x="2684.2324" y="2218.662"/>
+            <next x="2479.2324" y="2218.662"/>
+            <end x="2479.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e72" source="n0::n2::n10::n57" target="n0::n2::n10::n58">
+            <start x="4395.5537" y="538.1738"/>
+            <next x="4395.5537" y="553.1504"/>
+            <next x="4367.0283" y="553.1504"/>
+            <end x="4367.0283" y="573.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::n105::e8" source="n0::n2::n10::n105::n10" target="n0::n2::n10::n105::n11">
+            <start x="2913.3237" y="1773.6621"/>
+            <next x="2913.3237" y="1793.6621"/>
+            <next x="2299.2324" y="1793.6621"/>
+            <end x="2299.2324" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e73" source="n0::n2::n10::n59" target="n0::n2::n10::n105::n10">
+            <start x="1760.7325" y="1628.1738"/>
+            <next x="1760.7325" y="1638.1738"/>
+            <next x="2938.3237" y="1638.1738"/>
+            <end x="2938.3237" y="1713.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e74" source="n0::n2::n10::n60" target="n0::n2::n10::n59">
+            <start x="1604.8992" y="1168.1738"/>
+            <next x="1604.8992" y="1413.1738"/>
+            <next x="1723.2325" y="1413.1738"/>
+            <end x="1723.2325" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e75" source="n0::n2::n10::n61" target="n0::n2::n10::n45">
+            <start x="2969.2324" y="2178.662"/>
+            <next x="2969.2324" y="2248.662"/>
+            <next x="2904.2324" y="2248.662"/>
+            <end x="2904.2324" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e76" source="n0::n2::n10::n61" target="n0::n2::n10::n46">
+            <start x="2919.2324" y="2178.662"/>
+            <next x="2919.2324" y="2238.662"/>
+            <next x="2734.2324" y="2238.662"/>
+            <end x="2734.2324" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e77" source="n0::n2::n10::n62" target="n0::n2::n10::n44">
+            <start x="3938.3237" y="2178.662"/>
+            <next x="3938.3237" y="2403.662"/>
+            <next x="2549.2324" y="2403.662"/>
+            <end x="2549.2324" y="2423.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::e1" source="n0::n1" target="n0::n2::n10::n57">
+            <start x="4395.5537" y="95.48828"/>
+            <end x="4395.5537" y="478.17383"/>
+        </arc>
+        <arc class="positive influence" id="n0::e2" source="n0::n1" target="n0::n2::n10::n58">
+            <start x="4362.22" y="95.48828"/>
+            <next x="4362.22" y="105.48828"/>
+            <next x="4257.0415" y="105.48828"/>
+            <next x="4257.0415" y="553.1504"/>
+            <next x="4317.0283" y="553.1504"/>
+            <end x="4317.0283" y="573.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::e3" source="n0::n1" target="n0::n2::n1">
+            <start x="4428.887" y="95.48828"/>
+            <next x="4428.8867" y="105.48828"/>
+            <next x="4566.7324" y="105.48828"/>
+            <next x="4566.7324" y="3059.1504"/>
+            <next x="4183.3237" y="3059.1504"/>
+            <end x="4183.3237" y="3074.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e78" source="n0::n2::n10::n63" target="n0::n2::n10::n47">
+            <start x="3074.2324" y="2178.662"/>
+            <end x="3074.2324" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e79" source="n0::n2::n10::n64" target="n0::n2::n10::n48">
+            <start x="2814.2324" y="2178.662"/>
+            <next x="2814.2324" y="2228.662"/>
+            <next x="2564.2324" y="2228.662"/>
+            <end x="2564.2324" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e80" source="n0::n2::n10::n65" target="n0::n2::n10::n49">
+            <start x="1774.2325" y="2178.662"/>
+            <next x="1774.2325" y="2188.662"/>
+            <next x="1794.2325" y="2188.662"/>
+            <end x="1794.2325" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e5" source="n0::n2::n2" target="n0::n2::n10::n66">
+            <start x="4167.0415" y="380.97656"/>
+            <next x="4167.0415" y="427.70898"/>
+            <next x="1864.8992" y="427.70898"/>
+            <end x="1864.8992" y="913.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e6" source="n0::n2::n2" target="n0::n2::n1">
+            <start x="4217.0415" y="380.97656"/>
+            <next x="4217.0415" y="390.97656"/>
+            <next x="4550.066" y="390.97656"/>
+            <next x="4550.066" y="3049.1504"/>
+            <next x="4166.657" y="3049.1504"/>
+            <end x="4166.657" y="3074.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e81" source="n0::n2::n10::n67" target="n0::n2::n10::n68">
+            <start x="1917.3992" y="1073.1738"/>
+            <next x="1917.3992" y="1093.1738"/>
+            <next x="1827.3992" y="1093.1738"/>
+            <end x="1827.3992" y="1108.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e82" source="n0::n2::n10::n69" target="n0::n2::n10::n68">
+            <start x="1787.3992" y="1073.1738"/>
+            <end x="1787.3992" y="1108.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e83" source="n0::n2::n10::n22" target="n0::n2::n10::n105::n10">
+            <start x="3365.8237" y="2268.662"/>
+            <next x="3365.8237" y="2158.662"/>
+            <next x="3358.3237" y="2158.662"/>
+            <next x="3358.3237" y="1868.6621"/>
+            <next x="2963.3237" y="1868.6621"/>
+            <end x="2963.3237" y="1773.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e84" source="n0::n2::n10::n70" target="n0::n2::n10::n105::n12">
+            <start x="2043.2325" y="1628.1738"/>
+            <end x="2043.2325" y="1713.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e85" source="n0::n2::n10::n72" target="n0::n2::n10::n70">
+            <start x="2068.2324" y="1533.1738"/>
+            <end x="2068.2324" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e86" source="n0::n2::n10::n73" target="n0::n2::n10::n70">
+            <start x="1938.2325" y="1533.1738"/>
+            <next x="1938.2325" y="1543.1738"/>
+            <next x="2018.2325" y="1543.1738"/>
+            <end x="2018.2325" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e87" source="n0::n2::n10::n54" target="n0::n2::n10::n62">
+            <start x="3938.3237" y="1888.6621"/>
+            <end x="3938.3237" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e88" source="n0::n2::n10::n66" target="n0::n2::n10::n67">
+            <start x="1877.3992" y="973.1738"/>
+            <next x="1877.3992" y="998.1738"/>
+            <next x="1917.3992" y="998.1738"/>
+            <end x="1917.3992" y="1013.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e89" source="n0::n2::n10::n66" target="n0::n2::n10::n69">
+            <start x="1827.3992" y="973.1738"/>
+            <next x="1827.3992" y="983.1738"/>
+            <next x="1787.3992" y="983.1738"/>
+            <end x="1787.3992" y="1013.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e90" source="n0::n2::n10::n66" target="n0::n2::n10::n68">
+            <start x="1852.3992" y="973.1738"/>
+            <next x="1852.3992" y="1083.1738"/>
+            <next x="1807.3992" y="1083.1738"/>
+            <end x="1807.3992" y="1108.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e91" source="n0::n2::n10::n74" target="n0::n2::n10::n75">
+            <start x="896.23254" y="1628.1738"/>
+            <end x="896.23254" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e92" source="n0::n2::n10::n74" target="n0::n2::n10::n76">
+            <start x="846.23254" y="1628.1738"/>
+            <next x="846.23254" y="1638.1738"/>
+            <next x="572.4183" y="1638.1738"/>
+            <end x="572.4182" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e93" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n52">
+            <start x="2294.2324" y="1888.6621"/>
+            <end x="2294.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e94" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n53">
+            <start x="2284.2324" y="1888.6621"/>
+            <next x="2284.2324" y="2103.662"/>
+            <next x="2164.2324" y="2103.662"/>
+            <end x="2164.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e95" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n55">
+            <start x="2264.2324" y="1888.6621"/>
+            <next x="2264.2324" y="2083.662"/>
+            <next x="1929.2325" y="2083.662"/>
+            <end x="1929.2325" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e96" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n56">
+            <start x="2324.2324" y="1888.6621"/>
+            <next x="2324.2324" y="1938.6621"/>
+            <next x="2684.2324" y="1938.6621"/>
+            <end x="2684.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e97" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n19">
+            <start x="2304.2324" y="1888.6621"/>
+            <next x="2304.2324" y="1958.6621"/>
+            <next x="2399.2324" y="1958.6621"/>
+            <end x="2399.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e98" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n61">
+            <start x="2344.2324" y="1888.6621"/>
+            <next x="2344.2324" y="1898.6621"/>
+            <next x="2923.3237" y="1898.6621"/>
+            <next x="2923.3237" y="2073.662"/>
+            <next x="2944.2324" y="2073.662"/>
+            <end x="2944.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e99" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n64">
+            <start x="2334.2324" y="1888.6621"/>
+            <next x="2334.2324" y="1928.6621"/>
+            <next x="2814.2324" y="1928.6621"/>
+            <end x="2814.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e100" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n65">
+            <start x="2254.2324" y="1888.6621"/>
+            <next x="2254.2324" y="2073.662"/>
+            <next x="1774.2325" y="2073.662"/>
+            <end x="1774.2325" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e101" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n77">
+            <start x="2314.2324" y="1888.6621"/>
+            <next x="2314.2324" y="1948.6621"/>
+            <next x="2529.2324" y="1948.6621"/>
+            <end x="2529.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e102" source="n0::n2::n10::n105::n11" target="n0::n2::n10::n78">
+            <start x="2274.2324" y="1888.6621"/>
+            <next x="2274.2324" y="2093.662"/>
+            <next x="2034.2325" y="2093.662"/>
+            <end x="2034.2325" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e103" source="n0::n2::n10::n79" target="n0::n2::n10::n59">
+            <start x="1808.2325" y="1533.1738"/>
+            <next x="1808.2325" y="1543.1738"/>
+            <next x="1773.2325" y="1543.1738"/>
+            <end x="1773.2325" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e104" source="n0::n2::n10::n76" target="n0::n2::n10::n80">
+            <start x="547.4182" y="1888.6621"/>
+            <next x="547.4183" y="2018.6621"/>
+            <next x="536.23254" y="2018.6621"/>
+            <end x="536.23254" y="2113.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e7" source="n0::n2::n1" target="n0::n2::n10::n22">
+            <start x="4099.99" y="3074.1504"/>
+            <next x="4099.99" y="3059.1504"/>
+            <next x="3403.3237" y="3059.1504"/>
+            <end x="3403.3237" y="2328.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e8" source="n0::n2::n1" target="n0::n2::n10::n66">
+            <start x="4133.324" y="3074.1504"/>
+            <next x="4133.3237" y="988.1738"/>
+            <next x="1902.3992" y="988.1738"/>
+            <end x="1902.3992" y="973.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e9" source="n0::n2::n10::n81" target="n0::n2::n1">
+            <start x="4149.99" y="538.1738"/>
+            <end x="4149.9907" y="3074.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e105" source="n0::n2::n10::n82" target="n0::n2::n10::n83">
+            <start x="1669.8992" y="1343.1738"/>
+            <next x="1669.8992" y="1353.1738"/>
+            <next x="1766.5659" y="1353.1738"/>
+            <end x="1766.5658" y="1373.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e106" source="n0::n2::n10::n84" target="n0::n2::n10::n83">
+            <start x="1799.8992" y="1343.1738"/>
+            <end x="1799.8992" y="1373.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e107" source="n0::n2::n10::n83" target="n0::n2::n10::n59">
+            <start x="1791.5658" y="1433.1738"/>
+            <next x="1791.5659" y="1463.1738"/>
+            <next x="1743.2325" y="1463.1738"/>
+            <next x="1743.2325" y="1543.1738"/>
+            <next x="1748.2325" y="1543.1738"/>
+            <end x="1748.2325" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e108" source="n0::n2::n10::n83" target="n0::n2::n10::n71">
+            <start x="1774.8992" y="1433.1738"/>
+            <next x="1774.8992" y="1453.1738"/>
+            <next x="1658.2325" y="1453.1738"/>
+            <end x="1658.2325" y="1473.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e109" source="n0::n2::n10::n83" target="n0::n2::n10::n72">
+            <start x="1841.5658" y="1433.1738"/>
+            <next x="1841.5659" y="1443.1738"/>
+            <next x="2068.2324" y="1443.1738"/>
+            <end x="2068.2324" y="1473.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e110" source="n0::n2::n10::n83" target="n0::n2::n10::n32">
+            <start x="1758.2325" y="1433.1738"/>
+            <next x="1758.2325" y="1443.1738"/>
+            <next x="1568.2325" y="1443.1738"/>
+            <end x="1568.2325" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e111" source="n0::n2::n10::n83" target="n0::n2::n10::n73">
+            <start x="1824.8992" y="1433.1738"/>
+            <next x="1824.8992" y="1453.1738"/>
+            <next x="1938.2325" y="1453.1738"/>
+            <end x="1938.2325" y="1473.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e112" source="n0::n2::n10::n83" target="n0::n2::n10::n79">
+            <start x="1808.2325" y="1433.1738"/>
+            <end x="1808.2325" y="1473.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e113" source="n0::n2::n10::n77" target="n0::n2::n10::n50">
+            <start x="2554.2324" y="2178.662"/>
+            <next x="2554.2324" y="2208.662"/>
+            <next x="2388.6333" y="2208.662"/>
+            <end x="2388.6333" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e114" source="n0::n2::n10::n68" target="n0::n2::n10::n38">
+            <start x="1749.8992" y="1168.1738"/>
+            <next x="1749.8992" y="1188.1738"/>
+            <next x="409.8615" y="1188.1738"/>
+            <end x="409.8615" y="1203.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e115" source="n0::n2::n10::n68" target="n0::n2::n10::n82">
+            <start x="1774.8992" y="1168.1738"/>
+            <next x="1774.8992" y="1198.1738"/>
+            <next x="1669.8992" y="1198.1738"/>
+            <end x="1669.8992" y="1283.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e116" source="n0::n2::n10::n68" target="n0::n2::n10::n84">
+            <start x="1799.8992" y="1168.1738"/>
+            <end x="1799.8992" y="1283.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e117" source="n0::n2::n10::n68" target="n0::n2::n10::n83">
+            <start x="1824.8992" y="1168.1738"/>
+            <next x="1824.8992" y="1178.1738"/>
+            <next x="1864.8992" y="1178.1738"/>
+            <next x="1864.8992" y="1353.1738"/>
+            <next x="1833.2325" y="1353.1738"/>
+            <end x="1833.2325" y="1373.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e118" source="n0::n2::n10::n68" target="n0::n2::n10::n85">
+            <start x="1747.3992" y="1108.1738"/>
+            <next x="1747.3992" y="1093.1738"/>
+            <next x="1657.3992" y="1093.1738"/>
+            <end x="1657.3992" y="1073.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e119" source="n0::n2::n10::n85" target="n0::n2::n10::n68">
+            <start x="1690.7325" y="1073.1738"/>
+            <next x="1690.7325" y="1083.1738"/>
+            <next x="1767.3992" y="1083.1738"/>
+            <end x="1767.3992" y="1108.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e120" source="n0::n2::n10::n78" target="n0::n2::n10::n20">
+            <start x="2034.2325" y="2178.662"/>
+            <next x="2034.2325" y="2198.662"/>
+            <next x="2160.5342" y="2198.662"/>
+            <end x="2160.5342" y="2263.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e121" source="n0::n2::n10::n105::n12" target="n0::n2::n10::n55">
+            <start x="2009.8992" y="1773.6621"/>
+            <next x="2009.8992" y="2063.662"/>
+            <next x="1879.2325" y="2063.662"/>
+            <end x="1879.2325" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e122" source="n0::n2::n10::n105::n12" target="n0::n2::n10::n63">
+            <start x="2076.566" y="1773.6621"/>
+            <next x="2076.566" y="1783.6621"/>
+            <next x="2943.3237" y="1783.6621"/>
+            <next x="2943.3237" y="2063.662"/>
+            <next x="3074.2324" y="2063.662"/>
+            <end x="3074.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e123" source="n0::n2::n10::n105::n12" target="n0::n2::n10::n77">
+            <start x="2043.2325" y="1773.6621"/>
+            <next x="2043.2325" y="1803.6621"/>
+            <next x="2364.2324" y="1803.6621"/>
+            <next x="2364.2324" y="1908.6621"/>
+            <next x="2579.2324" y="1908.6621"/>
+            <end x="2579.2324" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e124" source="n0::n2::n10::n51" target="n0::n2::n10::n75">
+            <start x="572.4182" y="1628.1738"/>
+            <next x="572.4183" y="1648.1738"/>
+            <next x="846.23254" y="1648.1738"/>
+            <end x="846.23254" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e125" source="n0::n2::n10::n51" target="n0::n2::n10::n76">
+            <start x="522.4182" y="1628.1738"/>
+            <end x="522.4182" y="1828.6621"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e10" source="n0::n2::n1" target="n0::n2::n10::n31">
+            <start x="4116.657" y="3074.1504"/>
+            <next x="4116.657" y="3049.1504"/>
+            <next x="4093.3237" y="3049.1504"/>
+            <next x="4093.3237" y="2348.662"/>
+            <next x="4003.3237" y="2348.662"/>
+            <next x="4003.3237" y="1548.1738"/>
+            <next x="3833.3237" y="1548.1738"/>
+            <end x="3833.3237" y="1533.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e126" source="n0::n2::n10::n71" target="n0::n2::n10::n33">
+            <start x="1658.2325" y="1533.1738"/>
+            <next x="1658.2325" y="2759.1504"/>
+            <next x="1655.8992" y="2759.1504"/>
+            <end x="1655.8992" y="2789.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e127" source="n0::n2::n10::n86" target="n0::n2::n10::n87">
+            <start x="701.23254" y="2854.1504"/>
+            <end x="701.23254" y="2874.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e128" source="n0::n2::n10::n5" target="n0::n2::n10::n88">
+            <start x="1299.8992" y="2603.662"/>
+            <next x="1299.8992" y="2623.662"/>
+            <next x="936.23254" y="2623.662"/>
+            <end x="936.23254" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e129" source="n0::n2::n10::n89" target="n0::n2::n10::n90">
+            <start x="1632.3992" y="808.1738"/>
+            <end x="1632.3992" y="833.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e130" source="n0::n2::n10::n89" target="n0::n2::n10::n91">
+            <start x="1582.3992" y="808.1738"/>
+            <end x="1582.3992" y="913.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e131" source="n0::n2::n10::n92" target="n0::n2::n10::n89">
+            <start x="1607.3992" y="728.1738"/>
+            <end x="1607.3992" y="748.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e11" source="n0::n2::n3" target="n0::n2::n10::n93">
+            <start x="318.19485" y="380.97656"/>
+            <next x="318.19485" y="390.97656"/>
+            <next x="281.82382" y="390.97656"/>
+            <next x="281.82382" y="1453.1738"/>
+            <next x="451.23254" y="1453.1738"/>
+            <next x="451.23254" y="2193.662"/>
+            <next x="596.23254" y="2193.662"/>
+            <end x="596.23254" y="2268.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e12" source="n0::n2::n3" target="n0::n2::n10::n94">
+            <start x="368.19485" y="380.97656"/>
+            <next x="368.19485" y="407.70898"/>
+            <next x="471.23254" y="407.70898"/>
+            <next x="471.23254" y="1658.1738"/>
+            <next x="686.23254" y="1658.1738"/>
+            <end x="686.23254" y="2118.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e13" source="n0::n2::n3" target="n0::n2::n10::n95">
+            <start x="393.19485" y="380.97656"/>
+            <next x="393.19485" y="397.70898"/>
+            <next x="1001.23254" y="397.70898"/>
+            <end x="1001.23254" y="2268.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e14" source="n0::n2::n3" target="n0::n2::n10::n38">
+            <start x="343.19485" y="380.97656"/>
+            <end x="343.19482" y="1203.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e132" source="n0::n2::n10::n96" target="n0::n2::n10::n92">
+            <start x="896.23254" y="633.1738"/>
+            <next x="896.23254" y="643.1738"/>
+            <next x="1607.3992" y="643.1738"/>
+            <end x="1607.3992" y="668.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e133" source="n0::n2::n10::n96" target="n0::n2::n10::n97">
+            <start x="846.23254" y="633.1738"/>
+            <next x="846.23254" y="653.1738"/>
+            <next x="836.23254" y="653.1738"/>
+            <end x="836.23254" y="668.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e15" source="n0::n2::n4" target="n0::n2::n10::n98">
+            <start x="673.00916" y="210.97656"/>
+            <next x="673.00916" y="387.70898"/>
+            <next x="811.23254" y="387.70898"/>
+            <end x="811.23254" y="478.17383"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e16" source="n0::n2::n4" target="n0::n2::n5">
+            <start x="723.00916" y="210.97656"/>
+            <next x="723.00916" y="220.97656"/>
+            <next x="896.23254" y="220.97656"/>
+            <end x="896.23254" y="235.97656"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e17" source="n0::n2::n6" target="n0::n2::n3">
+            <start x="460.69485" y="295.97656"/>
+            <next x="460.69485" y="305.97656"/>
+            <next x="380.69485" y="305.97656"/>
+            <end x="380.69485" y="320.97656"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e18" source="n0::n2::n7" target="n0::n2::n3">
+            <start x="330.69485" y="295.97656"/>
+            <end x="330.69485" y="320.97656"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e134" source="n0::n2::n10::n90" target="n0::n2::n10::n91">
+            <start x="1632.3992" y="893.1738"/>
+            <end x="1632.3992" y="913.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e135" source="n0::n2::n10::n90" target="n0::n2::n10::n85">
+            <start x="1682.3992" y="893.1738"/>
+            <end x="1682.3992" y="1013.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e136" source="n0::n2::n10::n93" target="n0::n2::n10::n99">
+            <start x="646.23254" y="2328.662"/>
+            <next x="646.23254" y="2338.662"/>
+            <next x="676.23254" y="2338.662"/>
+            <end x="676.23254" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e137" source="n0::n2::n10::n94" target="n0::n2::n10::n93">
+            <start x="652.89923" y="2178.662"/>
+            <next x="652.89923" y="2188.662"/>
+            <next x="646.23254" y="2188.662"/>
+            <end x="646.23254" y="2268.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e138" source="n0::n2::n10::n94" target="n0::n2::n10::n99">
+            <start x="719.56586" y="2178.662"/>
+            <next x="719.56586" y="2213.662"/>
+            <next x="706.23254" y="2213.662"/>
+            <next x="706.23254" y="2308.662"/>
+            <next x="701.23254" y="2308.662"/>
+            <end x="701.23254" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e19" source="n0::n2::n10::n95" target="n0::n2::n8">
+            <start x="1001.23254" y="2328.662"/>
+            <next x="1001.23254" y="2348.662"/>
+            <next x="956.23254" y="2348.662"/>
+            <next x="956.23254" y="2593.662"/>
+            <next x="806.23254" y="2593.662"/>
+            <end x="806.23254" y="3074.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e139" source="n0::n2::n10::n95" target="n0::n2::n10::n100">
+            <start x="1034.5659" y="2328.662"/>
+            <end x="1034.5659" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e140" source="n0::n2::n10::n95" target="n0::n2::n10::n99">
+            <start x="967.89923" y="2328.662"/>
+            <next x="967.89923" y="2338.662"/>
+            <next x="751.23254" y="2338.662"/>
+            <end x="751.23254" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e20" source="n0::n2::n8" target="n0::n2::n10::n93">
+            <start x="746.23254" y="3074.1504"/>
+            <next x="746.23254" y="3059.1504"/>
+            <next x="596.23254" y="3059.1504"/>
+            <end x="596.23254" y="2328.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e21" source="n0::n2::n8" target="n0::n2::n10::n94">
+            <start x="766.23254" y="3074.1504"/>
+            <next x="766.23254" y="3049.1504"/>
+            <next x="616.23254" y="3049.1504"/>
+            <next x="616.23254" y="2348.662"/>
+            <next x="686.23254" y="2348.662"/>
+            <end x="686.23254" y="2178.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e22" source="n0::n2::n8" target="n0::n2::n10::n100">
+            <start x="826.23254" y="3074.1504"/>
+            <next x="826.23254" y="3049.1504"/>
+            <next x="976.23254" y="3049.1504"/>
+            <next x="976.23254" y="2503.662"/>
+            <next x="1001.23254" y="2503.662"/>
+            <end x="1001.23254" y="2488.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e141" source="n0::n2::n10::n98" target="n0::n2::n10::n96">
+            <start x="836.23254" y="538.1738"/>
+            <next x="836.23254" y="558.1738"/>
+            <next x="846.23254" y="558.1738"/>
+            <end x="846.23254" y="573.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e142" source="n0::n2::n10::n98" target="n0::n2::n10::n97">
+            <start x="786.23254" y="538.1738"/>
+            <end x="786.23254" y="668.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e143" source="n0::n2::n10::n91" target="n0::n2::n10::n60">
+            <start x="1582.3992" y="973.1738"/>
+            <next x="1582.3992" y="983.1738"/>
+            <next x="1579.8992" y="983.1738"/>
+            <end x="1579.8992" y="1108.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e144" source="n0::n2::n10::n91" target="n0::n2::n10::n85">
+            <start x="1632.3992" y="973.1738"/>
+            <end x="1632.3992" y="1013.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e23" source="n0::n2::n5" target="n0::n2::n9">
+            <start x="896.23254" y="295.97656"/>
+            <end x="896.23254" y="320.97656"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e145" source="n0::n2::n10::n101" target="n0::n2::n10::n90">
+            <start x="1737.3992" y="808.1738"/>
+            <next x="1737.3992" y="818.1738"/>
+            <next x="1682.3992" y="818.1738"/>
+            <end x="1682.3992" y="833.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e146" source="n0::n2::n10::n100" target="n0::n2::n10::n5">
+            <start x="1067.8992" y="2488.662"/>
+            <next x="1067.8992" y="2498.662"/>
+            <next x="1333.2325" y="2498.662"/>
+            <end x="1333.2325" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e147" source="n0::n2::n10::n100" target="n0::n2::n10::n25">
+            <start x="1034.5659" y="2488.662"/>
+            <next x="1034.5659" y="2498.662"/>
+            <next x="1041.2325" y="2498.662"/>
+            <end x="1041.2325" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e148" source="n0::n2::n10::n102" target="n0::n2::n10::n86">
+            <start x="701.23254" y="2749.1504"/>
+            <end x="701.23254" y="2784.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e149" source="n0::n2::n10::n99" target="n0::n2::n10::n103">
+            <start x="713.73254" y="2488.662"/>
+            <next x="713.73254" y="2498.662"/>
+            <next x="701.23254" y="2498.662"/>
+            <end x="701.23254" y="2543.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e24" source="n0::n2::n9" target="n0::n2::n10::n96">
+            <start x="896.23254" y="380.97656"/>
+            <end x="896.23254" y="573.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e150" source="n0::n2::n10::n85" target="n0::n2::n10::n60">
+            <start x="1624.0658" y="1073.1738"/>
+            <next x="1624.0659" y="1083.1738"/>
+            <next x="1629.8992" y="1083.1738"/>
+            <end x="1629.8992" y="1108.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e151" source="n0::n2::n10::n103" target="n0::n2::n10::n102">
+            <start x="701.23254" y="2603.662"/>
+            <end x="701.23254" y="2689.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::e25" source="n0::n2::n10::n97" target="n0::n2::n8">
+            <start x="786.23254" y="728.1738"/>
+            <end x="786.23254" y="3074.1504"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e152" source="n0::n2::n10::n97" target="n0::n2::n10::n99">
+            <start x="836.23254" y="728.1738"/>
+            <next x="836.23254" y="738.1738"/>
+            <next x="941.23254" y="738.1738"/>
+            <next x="941.23254" y="1658.1738"/>
+            <next x="806.23254" y="1658.1738"/>
+            <next x="806.23254" y="2223.662"/>
+            <next x="726.23254" y="2223.662"/>
+            <end x="726.23254" y="2428.662"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e153" source="n0::n2::n10::n10" target="n0::n2::n10::n59">
+            <start x="580.7516" y="1533.1738"/>
+            <next x="580.7516" y="1548.1738"/>
+            <next x="1698.2325" y="1548.1738"/>
+            <end x="1698.2325" y="1568.1738"/>
+        </arc>
+        <arc class="positive influence" id="n0::n2::n10::e154" source="n0::n2::n10::n88" target="n0::n2::n10::n59">
+            <start x="886.23254" y="2689.1504"/>
+            <next x="886.23254" y="2583.662"/>
+            <next x="936.23254" y="2583.662"/>
+            <next x="936.23254" y="1668.1738"/>
+            <next x="1710.7325" y="1668.1738"/>
+            <end x="1710.7325" y="1628.1738"/>
+        </arc>
+    </map>
+</sbgn>
