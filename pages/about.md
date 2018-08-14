@@ -14,6 +14,10 @@ AsthmaMap is being developed in close collaboration with the LCSB Parkinson's di
 
 The AsthmaMap project progresses in alliance with other efforts of the Disease Maps Community and communicates with other groups for exchanging experience and best practices.  
 
+## How to cite
+
+Mazein A, Knowles R, Adcock I, Chung F, Sterk P, Auffray C. AsthmaMap: expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211).
+
 ## Participate
 
 We actively support the strengthening tendency to large-scale participative open-community projects for approaching complex diseases and welcome collaboration on the topic of high-quality reconstruction of asthma mechanisms, modelling, hypothesis generation and validation.   
