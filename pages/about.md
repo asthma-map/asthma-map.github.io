@@ -16,7 +16,7 @@ The AsthmaMap project progresses in alliance with other efforts of the Disease M
 
 ## How to cite
 
-Mazein A, Knowles R, Adcock I, Chung F, Sterk P, Auffray C. AsthmaMap: An expert‐driven computational representation of disease mechanisms. Clin Exp Allergy. 2018. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211).
+Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
 
 ## Participate
 
