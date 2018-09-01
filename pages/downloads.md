@@ -24,12 +24,13 @@ permalink: /downloads/
 
 **Dendritic cell 0.1.01**
 &nbsp; [GraphML](/images/af/F001-DendriticCell.graphml)
-&nbsp; [SBGN-ML](/images/af/F001-DendriticCell.sbgn)
+&nbsp; [SBGN-ML](/images/af/F001-DendriticCell-SBGNv02.sbgn)
 &nbsp; [PDF](/images/af/F001-DendriticCell.pdf)
 &nbsp; [SVG](/images/af/F001-DendriticCell.svg)  
 
 **Airway epithelial cell 0.1.01**
 &nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
+&nbsp; [SBGN-ML](/images/af/F002-AirwayEpithelialCell-SBGNv02.sbgn)
 &nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
 &nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
 
