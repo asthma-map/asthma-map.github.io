@@ -8,17 +8,17 @@ permalink: /downloads/
 
 ## AsthmaMap Cellular Interactions
 
-**AsthmaMap Cellular Interactions 1.1**
-&nbsp; [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml)
-&nbsp; [PDF](/images/ci/AsthmaMapCI-V1.1.pdf)
-&nbsp; [PNG](/images/ci/AsthmaMapCI-V1.1.png)
-&nbsp; [SVG](/images/ci/AsthmaMapCI-V1.1.svg)
-
 **AsthmaMap Cellular Interactions 1.2**
 &nbsp; [GraphML](/images/ci/AsthmaMapCI-V1.2.02-red.graphml)
 &nbsp; [PDF](/images/ci/AsthmaMapCI-V1.2.02-red.pdf)
 &nbsp; [PNG](/images/ci/AsthmaMapCI-V1.2.02-red.png)
-&nbsp; [SVG](/images/ci/AsthmaMapCI-V1.2.02-red.svg)
+&nbsp; [SVG](/images/ci/AsthmaMapCI-V1.2.02-red.svg)  
+
+**AsthmaMap Cellular Interactions 1.1**
+&nbsp; [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml)
+&nbsp; [PDF](/images/ci/AsthmaMapCI-V1.1.pdf)
+&nbsp; [PNG](/images/ci/AsthmaMapCI-V1.1.png)
+&nbsp; [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
 ## AsthmaMap Activity Flow
 
@@ -42,15 +42,15 @@ permalink: /downloads/
 &nbsp; [PDF](/images/af/F004-Th2.pdf)
 &nbsp; [SVG](/images/af/F004-Th2.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Treg 0.1.01**
+&nbsp; [GraphML](/images/af/F005-Treg.graphml)
+&nbsp; [PDF](/images/af/F005-Treg.pdf)
+&nbsp; [SVG](/images/af/F005-Treg.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**ILCPrecursor 0.1.01**
+&nbsp; [GraphML](/images/af/F006-ILCPrecursor.graphml)
+&nbsp; [PDF](/images/af/F006-ILCPrecursor.pdf)
+&nbsp; [SVG](/images/af/F006-ILCPrecursor.svg)  
 
 **Airway epithelial cell 0.1.01**
 &nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
