@@ -36,84 +36,87 @@ permalink: /downloads/
 
 **Th0 0.1.01**
 &nbsp; [GraphML](/images/af/F003-Th0.graphml)
+&nbsp; [SBGN-ML](/images/af/F003-Th0-SBGNv02.sbgn)
 &nbsp; [PDF](/images/af/F003-Th0.pdf)
 &nbsp; [SVG](/images/af/F003-Th0.svg)  
 
 **Th2 0.1.01**
 &nbsp; [GraphML](/images/af/F004-Th2.graphml)
+&nbsp; [SBGN-ML](/images/af/F004-Th2-SBGNv02.sbgn)
 &nbsp; [PDF](/images/af/F004-Th2.pdf)
 &nbsp; [SVG](/images/af/F004-Th2.svg)  
 
 **Treg 0.1.01**
 &nbsp; [GraphML](/images/af/F005-Treg.graphml)
+&nbsp; [SBGN-ML](/images/af/F005-Treg-SBGNv02.sbgn)
 &nbsp; [PDF](/images/af/F005-Treg.pdf)
 &nbsp; [SVG](/images/af/F005-Treg.svg)  
 
 **ILCPrecursor 0.1.01**
 &nbsp; [GraphML](/images/af/F006-ILCPrecursor.graphml)
+&nbsp; [SBGN-ML](/images/af/F006-ILCPrecursor-SBGNv02.sbgn)
 &nbsp; [PDF](/images/af/F006-ILCPrecursor.pdf)
 &nbsp; [SVG](/images/af/F006-ILCPrecursor.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**ILC2 0.1.01**
+&nbsp; [GraphML](/images/af/F007-ILC2.graphml)
+&nbsp; [SBGN-ML](/images/af/F007-ILC2-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F007-ILC2.pdf)
+&nbsp; [SVG](/images/af/F007-ILC2.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**B cell 0.1.01**
+&nbsp; [GraphML](/images/af/F008-BCell.graphml)
+&nbsp; [SBGN-ML](/images/af/F008-BCell-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F008-BCell.pdf)
+&nbsp; [SVG](/images/af/F008-BCell.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Macrophage 0.1.01**
+&nbsp; [GraphML](/images/af/F009-Macrophage.graphml)
+&nbsp; [SBGN-ML](/images/af/F009-Macrophage-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F009-Macrophage.pdf)
+&nbsp; [SVG](/images/af/F009-Macrophage.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Eosinophil precursor 0.1.01**
+&nbsp; [GraphML](/images/af/F010-EosinophilPrecursor.graphml)
+&nbsp; [SBGN-ML](/images/af/F010-EosinophilPrecursor-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F010-EosinophilPrecursor.pdf)
+&nbsp; [SVG](/images/af/F010-EosinophilPrecursor.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Eosinophil 0.1.01**
+&nbsp; [GraphML](/images/af/F011-Eosinophil.graphml)
+&nbsp; [SBGN-ML](/images/af/F011-Eosinophil-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F011-Eosinophil.pdf)
+&nbsp; [SVG](/images/af/F011-Eosinophil.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Mast cell 0.1.01**
+&nbsp; [GraphML](/images/af/F012-MastCell.graphml)
+&nbsp; [SBGN-ML](/images/af/F012-MastCell-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F012-MastCell.pdf)
+&nbsp; [SVG](/images/af/F012-MastCell.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Neutrophil 0.1.01**
+&nbsp; [GraphML](/images/af/F013-Neutrophil.graphml)
+&nbsp; [SBGN-ML](/images/af/F013-Neutrophil-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F013-Neutrophil.pdf)
+&nbsp; [SVG](/images/af/F013-Neutrophil.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Fibroblast 0.1.01**
+&nbsp; [GraphML](/images/af/F014-Fibroblast.graphml)
+&nbsp; [SBGN-ML](/images/af/F014-Fibroblast-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F014-Fibroblast.pdf)
+&nbsp; [SVG](/images/af/F014-Fibroblast.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
+**Airway smooth muscle cell 0.1.01**
+&nbsp; [GraphML](/images/af/F015-AirwaySmoothMuscleCell.graphml)
+&nbsp; [SBGN-ML](/images/af/F015-AirwaySmoothMuscleCell-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F015-AirwaySmoothMuscleCell.pdf)
+&nbsp; [SVG](/images/af/F015-AirwaySmoothMuscleCell.svg)  
 
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
-
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
-
-**Airway epithelial cell 0.1.01**
-&nbsp; [GraphML](/images/af/F002-AirwayEpithelialCell.graphml)
-&nbsp; [PDF](/images/af/F002-AirwayEpithelialCell.pdf)
-&nbsp; [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
-
+**Goblet cell 0.1.01**
+&nbsp; [GraphML](/images/af/F016-GobletCell.graphml)
+&nbsp; [SBGN-ML](/images/af/F016-GobletCell-SBGNv02.sbgn)
+&nbsp; [PDF](/images/af/F016-GobletCell.pdf)
+&nbsp; [SVG](/images/af/F016-GobletCell.svg)  
 
 
 ## AsthmaMap Process Description
