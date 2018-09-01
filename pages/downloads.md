@@ -122,12 +122,19 @@ permalink: /downloads/
 ## AsthmaMap Process Description
 
 **Mast Cell Module 0.0.40**
+MastCellModule-0.1.40.xml
+&nbsp; [CellDesigner](/images/pd/MastCellModule-0.0.40.xml)
+&nbsp; [PDF](/images/pd/MastCellModule-0.0.40.pdf)
 &nbsp; [PNG](/images/pd/MastCellModule-0.0.40.png)
 &nbsp; [MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=mast_cell&x=11680&y=2300&zoom=6)  
 
 **Eicosanoid Production Module 0.0.42**
+&nbsp; [CellDesigner](/images/pd/EicosanoidModule-0.0.42.xml)
+&nbsp; [PDF](/images/pd/EicosanoidModule-0.0.42.pdf)
 &nbsp; [PNG](/images/pd/EicosanoidModule-0.0.42.png)
 &nbsp; [MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=AA_V42_SBGN&x=2050&y=1050&zoom=4)  
 
 **Eosinophil Module 0.0.40**
+&nbsp; [CellDesigner](/images/pd/EosinophilModule-0.0.40.xml)
+&nbsp; [PDF](/images/pd/EosinophilModule-0.0.40.pdf)
 &nbsp; [PNG](/images/pd/EosinophilModule-0.0.40.png)
