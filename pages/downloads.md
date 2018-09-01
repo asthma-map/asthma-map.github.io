@@ -24,7 +24,7 @@ permalink: /downloads/
 
 **Dendritic cell 0.1.01**
 &nbsp; [GraphML](/images/af/F001-DendriticCell.graphml)
-&nbsp; [GraphML](/images/af/F001-DendriticCell.sbgn)
+&nbsp; [SBGN-ML](/images/af/F001-DendriticCell.sbgn)
 &nbsp; [PDF](/images/af/F001-DendriticCell.pdf)
 &nbsp; [SVG](/images/af/F001-DendriticCell.svg)  
 
