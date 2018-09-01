@@ -122,7 +122,6 @@ permalink: /downloads/
 ## AsthmaMap Process Description
 
 **Mast Cell Module 0.0.40**
-MastCellModule-0.1.40.xml
 &nbsp; [CellDesigner](/images/pd/MastCellModule-0.0.40.xml)
 &nbsp; [PDF](/images/pd/MastCellModule-0.0.40.pdf)
 &nbsp; [PNG](/images/pd/MastCellModule-0.0.40.png)
