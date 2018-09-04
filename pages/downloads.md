@@ -12,7 +12,8 @@ permalink: /downloads/
 &nbsp; [GraphML](/images/ci/AsthmaMapCI-V1.2.02-red.graphml)
 &nbsp; [PDF](/images/ci/AsthmaMapCI-V1.2.02-red.pdf)
 &nbsp; [PNG](/images/ci/AsthmaMapCI-V1.2.02-red.png)
-&nbsp; [SVG](/images/ci/AsthmaMapCI-V1.2.02-red.svg)  
+&nbsp; [SVG](/images/ci/AsthmaMapCI-V1.2.02-red.svg)
+&nbsp; [PowerPoint](/images/ci/AsthmaMapCI-V1.2.02-red.pptx)  
 
 **AsthmaMap Cellular Interactions 1.1**
 &nbsp; [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml)
