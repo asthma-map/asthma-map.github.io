@@ -26,7 +26,7 @@ We actively support the strengthening tendency to large-scale participative open
 To contribute and discuss the project please use this email address: [asthma-map@googlegroups.com](mailto:asthma-map@googlegroups.com)  
 
 AsthmaMap Project Coordinators:  
-Alexander Mazein [amazein@eisbm.org](mailto:amazein@eisbm.org)  
+Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
 Charles Auffray [cauffray@eisbm.org](mailto:cauffray@eisbm.org)  
 
 ## Press release
