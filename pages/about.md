@@ -36,4 +36,4 @@ New "AsthmaMap" could redefine disease and personalize treatment for patients, 1
 
 ## Funding
 
-The initial phase of the project was funded by [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/content/u-biopred) and then continued with the support of [IMI eTRIKS n°115446](https://www.imi.europa.eu/content/etriks).
+The initial phase of the project was funded by [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred) and then continued with the support of [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks).
