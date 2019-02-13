@@ -12,9 +12,7 @@ permalink: /tools/
         
 yEd uses the XML-based GraphML format to load/save diagrams and additionally supports import from Excel spreadsheets (.xls, .xlsx) and arbitrary XML (via XSLT). Creating diagrams manually is easy and fun with the intuitive user interface, and a large collection of powerful layout algorithms allows to automatically arrange nodes and edges. Diagrams can be exported to bitmap and vector formats: PNG, JPG, and SVG, PDF.  
         
-Since [version 3.17.1](https://www.yworks.com/products/yed/download#ReleaseNotes) yEd provides a palette section for Systems Biology Graphical Notation.  
-
-There are some [tips](/help/) available on how to use yEd for drawing SBGN diagrams.  
+Since [version 3.17.1](https://www.yworks.com/products/yed/download#ReleaseNotes) yEd provides a palette section for Systems Biology Graphical Notation.   
 
 ## ySBGN
 
