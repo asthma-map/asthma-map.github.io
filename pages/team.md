@@ -77,7 +77,7 @@ permalink: /team/
 
 <table>
 <tr>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Alexander Mazein, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Senior Researcher, European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Alexander Mazein, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Irina Balaur, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Charles Auffray, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</font></p><br /></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Bertrand De Meulder, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
