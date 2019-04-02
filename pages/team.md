@@ -31,7 +31,7 @@ permalink: /team/
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/SvenErikDahlen.jpg" width="160"/></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/IanAdcock.jpg" width="160"/></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/AnkeHilse.jpg" width="160"/></p></td>
-<td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/JosepRoca.jpg" width="160"/></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/GrahamRoberts.jpg" width="160"/></p></td>
 </tr>
 </table>
 
@@ -40,14 +40,14 @@ permalink: /team/
 <td style="width: 220px;"><p style="margin:4px;"><strong>Sven-Erik Dahlen, MD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor in Experimental Asthma and Allergy Research, Karolinska Institutet, Stockholm, Sweden</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Ian Adcock, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor of Respiratory Cell & Molecular Biology, Head of the Molecular Cell Biology Group at the National Heart & Lung Institute, Imperial College London, UK</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Anke-Hilse Maitland-van der Zee, PharmD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor Precision Medicine in Respiratory Disease, Academic Medical Center, Amsterdam, Netherlands<br />President of the Federation of Innovative Drug Research in the Netherlands, Coordinator of the ERANET SysPharmPediA project</font></p></td>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Josep Roca, MD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor of Medicine at the University of Barcelona, Senior Researcher at IDIBAPS, Senior Consultant at the Hospital Clinic of Barcelona, Spain</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Graham Roberts, DM, FRCPCH, MA, MSc</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor and Honorary Consultant Paediatrician in Paediatric Allergy and Respiratory Medicine, University of Southampton, UK</font></p></td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/RatkoDjukanovic.jpg" width="160"/></p></td>
-<td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/GrahamRoberts.jpg" width="160"/></p></td>
+<td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 </tr>
@@ -56,7 +56,7 @@ permalink: /team/
 <table>
 <tr>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Ratko Djukanovic, MD, FRCP, FERS</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor of Medicine; Honorary Consultant Physician<br />NIHR Senior Investigator, Director of the Southampton NIHR Respiratory Biomedical Research Unit, University of Southampton, UK</font></p></td>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Graham Roberts, DM, FRCPCH, MA, MSc</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Professor and Honorary Consultant Paediatrician in Paediatric Allergy and Respiratory Medicine, University of Southampton, UK</font></p></td>
+<td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 </tr>
