@@ -6,7 +6,7 @@ permalink: /downloads/
 
 # Downloads
 
-## AsthmaMap Cellular Interactions
+### AsthmaMap Cellular Interactions
 
 **AsthmaMap Cellular Interactions 1.2**
 &nbsp; [GraphML](/images/ci/AsthmaMapCI-V1.2.02-red.graphml)
@@ -21,7 +21,7 @@ permalink: /downloads/
 &nbsp; [PNG](/images/ci/AsthmaMapCI-V1.1.png)
 &nbsp; [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
-## AsthmaMap Activity Flow
+### AsthmaMap Molecular Relations
 
 **Dendritic cell 0.1.01**
 &nbsp; [GraphML](/images/af/F001-DendriticCell.graphml)
