@@ -4,7 +4,7 @@ title: Process Description
 permalink: /bm/
 ---
 
-# Process Description
+# Biochemical Mechanisms
 
 The AsthmaMap Biochemical Mechanisms layer consists of maps manually developed in the SBGN Process Description language (Le Novère et al., 2009, [PMID 19668183](https://www.ncbi.nlm.nih.gov/pubmed/?term=19668183)). They unumbiguously depict biological events on the level of molecular processes, with all the mechanistic details. 
 
