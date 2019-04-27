@@ -21,6 +21,8 @@ permalink: /downloads/
 &nbsp; [PNG](/images/ci/AsthmaMapCI-V1.1.png)
 &nbsp; [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
+<br />
+
 ### AsthmaMap Molecular Relations
 
 **Dendritic cell 0.1.01**
@@ -119,8 +121,9 @@ permalink: /downloads/
 &nbsp; [PDF](/images/af/F016-GobletCell.pdf)
 &nbsp; [SVG](/images/af/F016-GobletCell.svg)  
 
+<br />
 
-## AsthmaMap Process Description
+### AsthmaMap Process Description
 
 **Mast Cell Module 0.0.40**
 &nbsp; [CellDesigner](/images/pd/MastCellModule-0.0.40.xml)
