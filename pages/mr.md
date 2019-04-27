@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Activity Flow
-permalink: /af/
+permalink: /mr/
 ---
 
-# Activity Flow
+# Molecular Relations
 
-The AsthmaMap Activity Flow layer consists of cell-type-specific interconnected diagrams. The diagrams are automatically assembled based on the AsthmaMap Cellular Interactions 1.1 and information from the MetaCore (licence purchased by the CNRS-EISBM within the eTRIKS project). Pathways for merging were prepared in the SBGN Activity Flow format, adjusted to ensure compatibility for the pathway-merging pipeline, automatically merged for a specific cell type and automatically laid out in the yEd Graph Editor using the One-Click Layout.
+The AsthmaMap Molecular Relations layer consists of cell-type-specific interconnected diagrams. The diagrams are automatically assembled based on the AsthmaMap Cellular Interactions 1.1 and information from the MetaCore (licence purchased by the CNRS-EISBM within the eTRIKS project). Pathways for merging were prepared in the SBGN Activity Flow format (Le Novère et al., 2009, [PMID 19668183](https://www.ncbi.nlm.nih.gov/pubmed/?term=19668183)) and adjusted to ensure compatibility for the pathway-merging pipeline, automatically merged for a specific cell type and automatically laid out in the yEd Graph Editor using the One-Click Layout.
 
 <!--Row #1-->
 <table>
