@@ -123,7 +123,7 @@ Goblet cell 0.1.01
 
 <br />
 
-### AsthmaMap Process Description
+### AsthmaMap Biochemical Mechanisms
 
 Mast Cell Module 0.0.40
 &nbsp; [CellDesigner](/images/pd/MastCellModule-0.0.40.xml)
