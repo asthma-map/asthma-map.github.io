@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Process Description
-permalink: /pd/
+permalink: /bm/
 ---
 
 # Process Description
 
-The AsthmaMap Process Desciption layer consists of maps manually developed in the SBGN Process Description language (Le Novère et al., 2009, [PMID 19668183](https://www.ncbi.nlm.nih.gov/pubmed/?term=19668183)). They unumbiguously depict biological events on the level of molecular processes, with all the mechanistic details. 
+The AsthmaMap Biochemical Mechanisms layer consists of maps manually developed in the SBGN Process Description language (Le Novère et al., 2009, [PMID 19668183](https://www.ncbi.nlm.nih.gov/pubmed/?term=19668183)). They unumbiguously depict biological events on the level of molecular processes, with all the mechanistic details. 
 
 ## Mast Cell Module 0.0.40
 
