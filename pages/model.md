@@ -6,7 +6,7 @@ permalink: /model/
 
 # Modelling asthma mechanisms
 
-## Mast cell in asthma: large-scale mechanistic model
+### Mast cell in asthma: large-scale mechanistic model
 
 The project employs the AsthmaMap Process Description layer to build a mechanistic model of mast cell dynamics aiming at improving our understanding of the disease and offering a tool for predicting the efficacy of medications. The objective is to develop a predictive model which integrates qualitative knowledge about the pathway topology and quantitative experimental data available in the literature.  
 
@@ -14,9 +14,16 @@ The SBML model is derived from the [Mast Cell Module 0.0.40](/pd/) of the Asthma
 
 The model has more than 300 species and 400 parameters, and includes kinetic laws for all reactions. We established a pipeline for building a data repository which is used for the model parameterization. The current model already captures several aspects of the mast cell response to allergens.  
 
-### Contributors
+#### Availability
 
-Thomas Ligon, Irina Balaur, Alexander Mazein, Diane Lefaudeux, Charles Auffray, Jan Hasenauer
+The model is available in various formats:  
+[MINERVA](https://asthma.uni.lu/minerva/index.xhtml?id=ASTHMA_V40_M07NoRules) &ensp; 
+[CellDesigner]() &ensp; 
+[SBML]() &ensp;  
+
+#### Contributors
+
+Thomas Ligon, Irina Balaur, Alexander Mazein, Charles Auffray, Jan Hasenauer
 
 
 
