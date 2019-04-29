@@ -29157,6 +29157,7 @@
       <parameter metaid="observable_IL4R" id="observable_IL4R" name="observable_IL4R" value="0" units="substance" constant="false" />
       <parameter metaid="observable_IgE" id="observable_IgE" name="observable_IgE" value="0" units="substance" constant="false" />
     </listOfParameters>
+    <listOfRules></listOfRules>
     <listOfReactions>
       <reaction metaid="re1" id="re10" name="Syk binding to FceR1" fast="false">
         <annotation>
