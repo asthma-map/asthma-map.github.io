@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Model
-permalink: /model/
+permalink: /model
 ---
 
 # Modelling asthma mechanisms
@@ -18,7 +18,7 @@ The model has more than 300 species and 400 parameters, and includes kinetic law
 
 The model is available in various formats:  
 [MINERVA](https://asthma.uni.lu/minerva/index.xhtml?id=ASTHMA_V40_M07NoRules) &ensp; 
-[CellDesigner]() &ensp; 
+[CellDesigner](/downloads/models/ASTHMA_V40_M07NoRules.xml) &ensp; 
 [SBML]() &ensp;  
 
 #### Contributors
