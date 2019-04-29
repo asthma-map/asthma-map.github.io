@@ -19,7 +19,7 @@ The model has more than 300 species and 400 parameters, and includes kinetic law
 The mast cell model was produced in CellDesigner and is available in the default CellDesigner's format, pure SBML and also provided for browsing in the MINERVA platform.  
 
 [CellDesigner](/downloads/models/ASTHMA_V40_M07NoRules.xml) &ensp; 
-[SBML]() &ensp;  
+[SBML]() &ensp; 
 [MINERVA](https://asthma.uni.lu/minerva/index.xhtml?id=ASTHMA_V40_M07NoRules) &ensp; 
 
 ### Contributors
