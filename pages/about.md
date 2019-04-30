@@ -29,6 +29,10 @@ AsthmaMap Project Coordinators:
 Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
 Charles Auffray [cauffray@eisbm.org](mailto:cauffray@eisbm.org)  
 
+## Availability
+
+All the files are available for downloading via the [Downloads](/downloads) page.
+
 ## Press release
 
 New "AsthmaMap" could redefine disease and personalize treatment for patients, 12th March 2016, European Lung Foundation. 
