@@ -1,5 +1,5 @@
 ---
 title: Redirect
 permalink: /pd
-redirect_to: https://asthma-map.org/bm/
+redirect to = "https://asthma-map.org/bm/"
 ---
