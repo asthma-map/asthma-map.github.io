@@ -1,4 +1,5 @@
 ---
-redirect_from: /pd
-redirect_to: https://asthma-map.org/bm/
+title: Redirect
+prmalink: /pd
+redirect_to: /bm/
 ---
