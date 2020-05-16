@@ -1,5 +1,5 @@
 ---
 title: Redirect
-prmalink: /pd
+permalink: /pd
 redirect_to: /bm/
 ---
