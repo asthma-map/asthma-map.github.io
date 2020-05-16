@@ -1,6 +1,6 @@
 ---
 title: Redirection notice
-permalink: /af
+permalink: /af/
 redirect_to: /mr/
 ---
 
