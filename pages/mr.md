@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activity Flow
+title: Molecular Relations
 permalink: /mr/
 ---
 
