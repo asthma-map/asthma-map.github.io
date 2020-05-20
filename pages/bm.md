@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Process Description
+redirect_from: "/pd/"
 permalink: /bm/
 ---
 
