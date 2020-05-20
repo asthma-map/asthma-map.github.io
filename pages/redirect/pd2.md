@@ -1,6 +1,6 @@
 ---
 title: Redirection notice
-permalink: /pd/
+permalink: /pd2/
 redirect_to: "https://asthma-map.org/bm/"
 ---
 
