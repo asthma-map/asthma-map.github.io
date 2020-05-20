@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Process Description
+title: Biochemical Mechanisms
 redirect_from: "/pd/"
 permalink: /bm/
 ---
