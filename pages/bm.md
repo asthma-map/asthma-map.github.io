@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biochemical Mechanisms
-redirect_from: "/pd/"
+redirect_from: /pd/
 permalink: /bm/
 ---
 
