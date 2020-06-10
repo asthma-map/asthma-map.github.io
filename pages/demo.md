@@ -16,5 +16,11 @@ Text
 
 ## Advanced MINERVA functionalities and plugins
 
-Text 
+### Commenting
+
+<video controls width="320">
+<source src="/media/CommentingV01.mp4"
+        type="video/mp4">
+Your browser does not support embedded videos.
+</video>
 
