@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tutorials
-permalink: /demo/
+permalink: /tutorials/
 ---
 
 # Video tutorials
