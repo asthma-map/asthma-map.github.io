@@ -8,11 +8,11 @@ permalink: /tutorials/
 
 ### Browsing and navigation
 
-This tutorial is in preparation and will be available soon.
+This tutorial is in preparation.
 
 ### Data visualisation
 
-This tutorial is in preparation and will be available soon.
+This tutorial is in preparation.
 
 ### Commenting
 
