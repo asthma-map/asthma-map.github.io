@@ -23,6 +23,6 @@ src="https://www.youtube.com/embed/oTvxOtE5QlE?rel=0&amp;modestbranding=0" frame
 </iframe>
 
 The Eicosanoid Production Map used for this tutorials is available at [https://asthma.uni.lu/minerva/index.xhtml?id=aa](https://asthma.uni.lu/minerva/index.xhtml?id=aa&x=2493&y=866&zoom=5&).  
-The link to the pathway of COX1/2 acetilation by aspirin: [https://metabolismregulation.org/aspirin](https://metabolismregulation.org/aspirin/).  
+The link to the pathway of COX1/2 acetylation by aspirin: [https://metabolismregulation.org/aspirin](https://metabolismregulation.org/aspirin/).  
 
 
