@@ -16,7 +16,9 @@ This tutorial is in preparation.
 
 ### Commenting
 
-This tutorial describes how comments can be added directly to the map. 
+This tutorial describes how comments can be added directly to the map.  
+
+[Script](https://docs.google.com/document/d/1GJUl-_H5IE3daHMz_Mz8xm74NwMVJa5HW0_i3U0HvkY/edit?usp=sharing)  
 
 <iframe width="640" height="360"
 src="https://www.youtube.com/embed/oTvxOtE5QlE?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
