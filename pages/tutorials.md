@@ -18,8 +18,6 @@ This tutorial is in preparation.
 
 This tutorial describes how comments can be added directly to the map.  
 
-[Script](https://docs.google.com/document/d/1GJUl-_H5IE3daHMz_Mz8xm74NwMVJa5HW0_i3U0HvkY/edit?usp=sharing)  
-
 <iframe width="640" height="360"
 src="https://www.youtube.com/embed/oTvxOtE5QlE?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
@@ -27,4 +25,11 @@ src="https://www.youtube.com/embed/oTvxOtE5QlE?rel=0&amp;modestbranding=0" frame
 The Eicosanoid Production Map used for this tutorials is available at [https://asthma.uni.lu/minerva/index.xhtml?id=aa](https://asthma.uni.lu/minerva/index.xhtml?id=aa&x=2493&y=866&zoom=5&).  
 The link to the pathway of COX1/2 acetylation by aspirin: [https://metabolismregulation.org/aspirin](https://metabolismregulation.org/aspirin/).  
 
+### Finding drug targets
+
+This tutorial describes how to use the MINERVA Drug Search funcitonality.  
+
+<iframe width="640" height="360"
+src="https://www.youtube.com/embed/c_SEtCnTII8?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
+</iframe>
 
