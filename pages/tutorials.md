@@ -27,7 +27,7 @@ The link to the pathway of COX1/2 acetylation by aspirin: [https://metabolismreg
 
 ### Finding drug targets
 
-This tutorial describes how to use the MINERVA drug search funcitonality and explore drug targets via online queries to [DrugBank](https://www.drugbank.ca) and [CHEMBL](https://www.ebi.ac.uk/chembl)  
+This tutorial describes how to use the MINERVA drug search funcitonality and explore drug targets via online queries to [DrugBank](https://www.drugbank.ca) and [CHEMBL](https://www.ebi.ac.uk/chembl).  
 
 <iframe width="640" height="360"
 src="https://www.youtube.com/embed/c_SEtCnTII8?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
