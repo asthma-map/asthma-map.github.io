@@ -102,6 +102,24 @@ permalink: /team/
 </tr>
 </table>
 
+<table>
+<tr>
+<td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/RupertOverall.jpg" width="160"/></p></td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Rupert W. Overall, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Platform Leader, Cognitive Resilience Map, German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</font></p></td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+<td style="width: 220px;"> </td>
+</tr>
+</table>
+
 <!--
 <td style="width: 220px;"><p style="margin:4px;"><strong>Vasundra Touré, MSc</strong></p><p style="margin:4px; line-height:100%;"><font size="2">PhD Student, Norwegian University of Science and Technology (NTNU), Trondheim, Norway</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Johann Pellet, MSc</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Bioinformatician, Project Manager, European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
