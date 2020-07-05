@@ -113,7 +113,7 @@ permalink: /team/
 
 <table>
 <tr>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Rupert W. Overall, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Platform Leader, Cognitive Resilience Map, German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Rupert Overall, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Platform Leader, Cognitive Resilience Map, German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</font></p></td>
 <td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
