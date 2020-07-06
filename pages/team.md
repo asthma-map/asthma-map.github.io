@@ -161,7 +161,7 @@ permalink: /team/
 
 <table>
 <tr>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Piotr Gawron, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Research Associate, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Piotr Gawron, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Marek Ostaszewski, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Reinhard Schneider, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 </tr>
