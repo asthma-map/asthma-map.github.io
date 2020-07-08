@@ -43,12 +43,16 @@ This tutorial describes how to use the MINERVA overlay funcitonality to visualis
 src="https://www.youtube.com/embed/mbPrYlKSY5M?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
 
-The corresponding analysis for the first U-BIOPRED blood handprint of severe asthma was reported by De Meulder and coauthors: De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889[(https://doi.org/10.1183/13993003.congress-2015.PA4889).  
+The corresponding report on the first U-BIOPRED blood handprint analysis:  
+De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889[(https://doi.org/10.1183/13993003.congress-2015.PA4889).  
 
 The individual datasets can be found in the following publications:  
 
-Clinical data and U-BIOPRED cohort: Shaw et al., 2015, Eur Respir J. PMID: 26357963, [DOI: 10.1183/13993003.00779-2015](https://doi.org/10.1183/13993003.00779-2015).  
+Clinical data and U-BIOPRED cohort:  
+Shaw et al., 2015, Eur Respir J. PMID: 26357963, [DOI: 10.1183/13993003.00779-2015](https://doi.org/10.1183/13993003.00779-2015).  
 
-Blood transcriptomics: Bigler et al., 2017, Am J Respir Crit Care Med. PMID: 27925796 [DOI: 10.1164/rccm.201604-0866OC](https://doi.org/10.1164/rccm.201604-0866oc).  
+Blood transcriptomics:  
+Bigler et al., 2017, Am J Respir Crit Care Med. PMID: 27925796 [DOI: 10.1164/rccm.201604-0866OC](https://doi.org/10.1164/rccm.201604-0866oc).  
 
-Urine eicosanoids (preprint): Kolmert et al., 2020, Am J Respir Crit Care Med. [Preprint](https://nottingham-repository.worktribe.com/output/4737555/urinary-leukotriene-e4-and-prostaglandin-d2-metabolites-increase-in-adult-and-childhood-severe-asthma-characterized-by-type-2-inflammation).  
+Urine eicosanoids (preprint):  
+Kolmert et al., 2020, Am J Respir Crit Care Med. [Preprint](https://nottingham-repository.worktribe.com/output/4737555/urinary-leukotriene-e4-and-prostaglandin-d2-metabolites-increase-in-adult-and-childhood-severe-asthma-characterized-by-type-2-inflammation).  
