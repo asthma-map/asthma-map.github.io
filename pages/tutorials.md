@@ -8,6 +8,8 @@ permalink: /tutorials/
 
 [Browsing and navigation](#browsingandnavigation)  
 [Commenting](#commenting)
+[Exploring drug targets](#exploringdrugtargets)
+[Visualising data](#visualisingdata)
 
 ### Browsing and navigation
 
