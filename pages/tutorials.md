@@ -25,8 +25,6 @@ This tutorial describes how comments can be added directly to the map.
 src="https://www.youtube.com/embed/vGUIpGBObt8?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
 
-<br />
-
 The Eicosanoid Production Map used for this tutorials is available at [https://asthma.uni.lu/minerva/index.xhtml?id=aa](https://asthma.uni.lu/minerva/index.xhtml?id=aa&x=2493&y=866&zoom=5&).  
 
 The pathway of COX1/2 acetylation by aspirin: [https://metabolismregulation.org/aspirin](https://metabolismregulation.org/aspirin/).
@@ -50,8 +48,6 @@ This tutorial describes how to use the MINERVA overlay funcitonality to visualis
 <iframe width="640" height="360"
 src="https://www.youtube.com/embed/mbPrYlKSY5M?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
-
-#### Comments
 
 The corresponding report on the first [U-BIOPRED](https://www.europeanlung.org/en/projects-and-research/projects/u-biopred/home) blood handprint analysis:  
 De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889](https://doi.org/10.1183/13993003.congress-2015.PA4889).  
