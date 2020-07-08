@@ -51,7 +51,7 @@ This tutorial describes how to use the MINERVA overlay funcitonality to visualis
 src="https://www.youtube.com/embed/mbPrYlKSY5M?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
 
-<br />
+#### Comments
 
 The corresponding report on the first [U-BIOPRED](https://www.europeanlung.org/en/projects-and-research/projects/u-biopred/home) blood handprint analysis:  
 De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889](https://doi.org/10.1183/13993003.congress-2015.PA4889).  
