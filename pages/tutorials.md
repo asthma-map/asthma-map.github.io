@@ -43,22 +43,18 @@ src="https://www.youtube.com/embed/J70ppBO46OI?rel=0&amp;modestbranding=0" frame
 
 ### Visualising data
 
-This tutorial describes how to use the MINERVA overlay funcitonality to visualise data including multi-omics data as in the case chosen for this video.   
+This tutorial describes how to use the MINERVA overlay functionality to visualise data, including multi-omics data.   
 
 <iframe width="640" height="360"
 src="https://www.youtube.com/embed/mbPrYlKSY5M?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
 
-The corresponding report on the first [U-BIOPRED](https://www.europeanlung.org/en/projects-and-research/projects/u-biopred/home) blood handprint analysis:  
-De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889](https://doi.org/10.1183/13993003.congress-2015.PA4889).  
+The multi-omics data and analysis presented in this video is reported as a conference abstract: De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889](https://doi.org/10.1183/13993003.congress-2015.PA4889) and the analytics methodology is published in De Meulder et al., 2018, BMC Syst Biol. [DOI: 10.1186/s12918-018-0556-z](https://doi.org/10.1186/s12918-018-0556-z).  
 
-A list of available individual datasets is provided below.  
+Links to the individual datasets are provided below:  
 
-Clinical data and U-BIOPRED cohort:  
-Shaw et al., 2015, Eur Respir J. PMID: 26357963. [DOI: 10.1183/13993003.00779-2015](https://doi.org/10.1183/13993003.00779-2015).  
+- Clinical data and [U-BIOPRED](https://www.europeanlung.org/en/projects-and-research/projects/u-biopred/home) adult cohort: Shaw et al., 2015, Eur Respir J. PMID: 26357963. [DOI: 10.1183/13993003.00779-2015](https://doi.org/10.1183/13993003.00779-2015).  
 
-Blood transcriptomics:  
-Bigler et al., 2017, Am J Respir Crit Care Med. PMID: 27925796. [DOI: 10.1164/rccm.201604-0866OC](https://doi.org/10.1164/rccm.201604-0866oc).  
+- Peripheral blood transcriptomics: Bigler et al., 2017, Am J Respir Crit Care Med. PMID: 27925796. [DOI: 10.1164/rccm.201604-0866OC](https://doi.org/10.1164/rccm.201604-0866oc).  
 
-Urine eicosanoids (preprint):  
-Kolmert et al., 2020, Am J Respir Crit Care Med. [Preprint](https://nottingham-repository.worktribe.com/output/4737555/urinary-leukotriene-e4-and-prostaglandin-d2-metabolites-increase-in-adult-and-childhood-severe-asthma-characterized-by-type-2-inflammation).  
+- Urine eicosanoids (preprint): Kolmert et al., 2020, Am J Respir Crit Care Med. [Preprint](https://nottingham-repository.worktribe.com/output/4737555/urinary-leukotriene-e4-and-prostaglandin-d2-metabolites-increase-in-adult-and-childhood-severe-asthma-characterized-by-type-2-inflammation).   
