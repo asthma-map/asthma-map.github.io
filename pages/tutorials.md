@@ -6,6 +6,9 @@ permalink: /tutorials/
 
 # Video tutorials
 
+[Browsing and navigation](#browsingandnavigation)  
+[Commenting](#commenting)
+
 ### Browsing and navigation
 
 This tutorial is in preparation.
