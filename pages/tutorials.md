@@ -7,9 +7,9 @@ permalink: /tutorials/
 # Video tutorials
 
 [Browsing and navigation](#browsingandnavigation)  
-[Commenting](#commenting)
-[Exploring drug targets](#exploringdrugtargets)
-[Visualising data](#visualisingdata)
+[Commenting](#commenting)  
+[Exploring drug targets](#exploringdrugtargets)  
+[Visualising data](#visualisingdata)  
 
 ### Browsing and navigation
 
