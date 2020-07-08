@@ -6,10 +6,10 @@ permalink: /tutorials/
 
 # Video tutorials
 
-[Browsing and navigation](#browsingandnavigation)  
+[Browsing and navigation](#browsing-and-navigation)  
 [Commenting](#commenting)  
-[Exploring drug targets](#exploringdrugtargets)  
-[Visualising data](#visualisingdata)  
+[Exploring drug targets](#exploring-drug-targets)  
+[Visualising data](#visualising-data)  
 
 ### Browsing and navigation
 
