@@ -46,7 +46,7 @@ src="https://www.youtube.com/embed/mbPrYlKSY5M?rel=0&amp;modestbranding=0" frame
 The corresponding report on the first [U-BIOPRED](https://www.europeanlung.org/en/projects-and-research/projects/u-biopred/home) blood handprint analysis:  
 De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889[(https://doi.org/10.1183/13993003.congress-2015.PA4889).  
 
-The individual datasets can be found in the following publications:  
+A list of available individual datasets is provided below.  
 
 Clinical data and U-BIOPRED cohort:  
 Shaw et al., 2015, Eur Respir J. PMID: 26357963, [DOI: 10.1183/13993003.00779-2015](https://doi.org/10.1183/13993003.00779-2015).  
