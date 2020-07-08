@@ -49,10 +49,10 @@ De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA48
 A list of available individual datasets is provided below.  
 
 Clinical data and U-BIOPRED cohort:  
-Shaw et al., 2015, Eur Respir J. PMID: 26357963, [DOI: 10.1183/13993003.00779-2015](https://doi.org/10.1183/13993003.00779-2015).  
+Shaw et al., 2015, Eur Respir J. PMID: 26357963. [DOI: 10.1183/13993003.00779-2015](https://doi.org/10.1183/13993003.00779-2015).  
 
 Blood transcriptomics:  
-Bigler et al., 2017, Am J Respir Crit Care Med. PMID: 27925796 [DOI: 10.1164/rccm.201604-0866OC](https://doi.org/10.1164/rccm.201604-0866oc).  
+Bigler et al., 2017, Am J Respir Crit Care Med. PMID: 27925796. [DOI: 10.1164/rccm.201604-0866OC](https://doi.org/10.1164/rccm.201604-0866oc).  
 
 Urine eicosanoids (preprint):  
 Kolmert et al., 2020, Am J Respir Crit Care Med. [Preprint](https://nottingham-repository.worktribe.com/output/4737555/urinary-leukotriene-e4-and-prostaglandin-d2-metabolites-increase-in-adult-and-childhood-severe-asthma-characterized-by-type-2-inflammation).  
