@@ -49,10 +49,6 @@ This tutorial describes how to use the MINERVA overlay functionality to visualis
 src="https://www.youtube.com/embed/mbPrYlKSY5M?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
 
-<iframe width="640" height="360"
-src="https://www.youtube.com/embed/G-0P7lEIdUw?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
-</iframe>
-
 
 The multi-omics data and analysis presented in this video are reported as a conference abstract: De Meulder et al., 2015, Eur Respir J. [DOI: 10.1183/13993003.congress-2015.PA4889](https://doi.org/10.1183/13993003.congress-2015.PA4889); and the analytics methodology is published in De Meulder et al., 2018, BMC Syst Biol. [DOI: 10.1186/s12918-018-0556-z](https://doi.org/10.1186/s12918-018-0556-z).  
 
