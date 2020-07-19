@@ -10,9 +10,9 @@ permalink: /downloads/
 
 <!--AsthmaMap Cellular Interactions | [GraphML](/images/ci/AsthmaMapCI-V1.2.02-red.graphml) | [PDF](/images/ci/AsthmaMapCI-V1.2.02-red.pdf) | [PNG](/images/ci/AsthmaMapCI-V1.2.02-red.png) | [SVG](/images/ci/AsthmaMapCI-V1.2.02-red.svg) | [PowerPoint](/images/ci/AsthmaMapCI-V1.2.02-red.pptx)-->
 
-#### Top-level view
+#### AsthmaMap Cellular Interactions 
 
-AsthmaMap Cellular Interactions | [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml) &nbsp; | [PDF](/images/ci/AsthmaMapCI-V1.1.pdf) &nbsp; | [PNG](/images/ci/AsthmaMapCI-V1.1.png) &nbsp; | [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
+Cellular Interactions | [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml) &nbsp; | [PDF](/images/ci/AsthmaMapCI-V1.1.pdf) &nbsp; | [PNG](/images/ci/AsthmaMapCI-V1.1.png) &nbsp; | [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
 #### AsthmaMap Molecular Relations (Activity Flow)
 
