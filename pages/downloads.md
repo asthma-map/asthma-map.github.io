@@ -10,7 +10,7 @@ permalink: /downloads/
 
 <!--AsthmaMap Cellular Interactions | [GraphML](/images/ci/AsthmaMapCI-V1.2.02-red.graphml) | [PDF](/images/ci/AsthmaMapCI-V1.2.02-red.pdf) | [PNG](/images/ci/AsthmaMapCI-V1.2.02-red.png) | [SVG](/images/ci/AsthmaMapCI-V1.2.02-red.svg) | [PowerPoint](/images/ci/AsthmaMapCI-V1.2.02-red.pptx)-->
 
-#### Cellular Interactions 
+#### Cellular Interactions (top-leve view)
 
 Cellular Interactions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml) &nbsp; | [PDF](/images/ci/AsthmaMapCI-V1.1.pdf) &nbsp; | [PNG](/images/ci/AsthmaMapCI-V1.1.png) &nbsp; | [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
