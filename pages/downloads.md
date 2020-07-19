@@ -27,6 +27,10 @@ AsthmaMap Cellular Interactions
 
 #### AsthmaMap Molecular Relations (Activity Flow)
 
+Dendritic cell | [GraphML](/images/af/F001-DendriticCell.graphml) | [SBGN-ML](/images/af/F001-DendriticCell-SBGNv02.sbgn) | [PDF](/images/af/F001-DendriticCell.pdf) | [SVG](/images/af/F001-DendriticCell.svg)
+Dendritic cell | [GraphML](/images/af/F001-DendriticCell.graphml) | [SBGN-ML](/images/af/F001-DendriticCell-SBGNv02.sbgn) | [PDF](/images/af/F001-DendriticCell.pdf) | [SVG](/images/af/F001-DendriticCell.svg)
+Dendritic cell | [GraphML](/images/af/F001-DendriticCell.graphml) | [SBGN-ML](/images/af/F001-DendriticCell-SBGNv02.sbgn) | [PDF](/images/af/F001-DendriticCell.pdf) | [SVG](/images/af/F001-DendriticCell.svg)
+
 Dendritic cell
 &nbsp; [GraphML](/images/af/F001-DendriticCell.graphml)
 &nbsp; [SBGN-ML](/images/af/F001-DendriticCell-SBGNv02.sbgn)
