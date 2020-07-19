@@ -6,7 +6,7 @@ permalink: /downloads/
 
 # Downloads
 
-### AsthmaMap build 1.2
+### AsthmaMap Build 1.2
 
 <!--AsthmaMap Cellular Interactions | [GraphML](/images/ci/AsthmaMapCI-V1.2.02-red.graphml) | [PDF](/images/ci/AsthmaMapCI-V1.2.02-red.pdf) | [PNG](/images/ci/AsthmaMapCI-V1.2.02-red.png) | [SVG](/images/ci/AsthmaMapCI-V1.2.02-red.svg) | [PowerPoint](/images/ci/AsthmaMapCI-V1.2.02-red.pptx)-->
 
