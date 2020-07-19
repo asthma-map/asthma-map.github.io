@@ -12,7 +12,7 @@ The AsthmaMap Biochemical Mechanisms layer consists of maps manually developed i
 
 <a href="https://asthma.uni.lu/minerva/?x=11338&y=2219&zoom=5&searchCoordinates=612,3564,3274,3&submap=3285&" target="_blank">Open in MINERVA</a> &nbsp;
 
-<a href="/images/pd/MastCellModule-0.0.40.png"><img src="/images/pd/MastCellModule-0.0.40-cut.png" style="border: #c6c6c6 1px solid;"/></a>
+<a href="https://asthma.uni.lu/minerva/?x=11338&y=2219&zoom=5&searchCoordinates=612,3564,3274,3&submap=3285&"><img src="/images/pd/MastCellModule-0.0.40-cut.png" style="border: #c6c6c6 1px solid;"/></a>
 
 <!--### Availability 
 AsthmaMap Process Description [Mast Cell Module 0.0.40 in MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=mast_cell&x=11680&y=2300&zoom=6)-->
@@ -21,7 +21,7 @@ AsthmaMap Process Description [Mast Cell Module 0.0.40 in MINERVA](http://asthma
 
 <a href="https://asthma.uni.lu/minerva/?x=1911&y=835&submap=3281&" target="_blank">Open in MINERVA</a> &nbsp;
 
-<a href="/images/pd/EicosanoidModule-0.0.42.png"><img src="/images/pd/EicosanoidModule-0.0.42-cut.png" style="border: #c6c6c6 1px solid;"/></a>
+<a href="https://asthma.uni.lu/minerva/?x=1911&y=835&submap=3281&"><img src="/images/pd/EicosanoidModule-0.0.42-cut.png" style="border: #c6c6c6 1px solid;"/></a>
 
 <!--### Availability 
 AsthmaMap Process Description [Eicosanoid Module 0.0.42 in MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=AA_V42_SBGN&x=2050&y=1050&zoom=4)-->
