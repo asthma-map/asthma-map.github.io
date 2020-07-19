@@ -19,7 +19,7 @@ AsthmaMap Process Description [Mast Cell Module 0.0.40 in MINERVA](http://asthma
 
 ## Eicosanoid Module
 
-<a href="https://asthma.uni.lu/minerva/" target="_blank">Open in MINERVA</a> &nbsp;
+<a href="https://asthma.uni.lu/minerva/?x=1911&y=835&submap=3281&" target="_blank">Open in MINERVA</a> &nbsp;
 
 <a href="/images/pd/EicosanoidModule-0.0.42.png"><img src="/images/pd/EicosanoidModule-0.0.42-cut.png" style="border: #c6c6c6 1px solid;"/></a>
 
