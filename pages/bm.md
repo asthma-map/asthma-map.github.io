@@ -10,7 +10,7 @@ The AsthmaMap Biochemical Mechanisms layer consists of maps manually developed i
 
 ## Mast Cell Module
 
-<a href="https://asthma.uni.lu/minerva/" target="_blank">Open in MINERVA</a> &nbsp;
+<a href="https://asthma.uni.lu/minerva/?x=11338&y=2219&zoom=5&searchCoordinates=612,3564,3274,3&submap=3285&" target="_blank">Open in MINERVA</a> &nbsp;
 
 <a href="/images/pd/MastCellModule-0.0.40.png"><img src="/images/pd/MastCellModule-0.0.40-cut.png" style="border: #c6c6c6 1px solid;"/></a>
 
