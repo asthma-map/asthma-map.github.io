@@ -12,12 +12,12 @@ permalink: /downloads/
 
 #### AsthmaMap Cellular Interactions 
 
-Cellular Interactions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml) &nbsp; | [PDF](/images/ci/AsthmaMapCI-V1.1.pdf) &nbsp; | [PNG](/images/ci/AsthmaMapCI-V1.1.png) &nbsp; | [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
+Cellular Interactions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml) &nbsp; | [PDF](/images/ci/AsthmaMapCI-V1.1.pdf) &nbsp; | [PNG](/images/ci/AsthmaMapCI-V1.1.png) &nbsp; | [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
 #### AsthmaMap Molecular Relations (Activity Flow)
 
 Airway epithelial cell | [GraphML](/images/af/F002-AirwayEpithelialCell.graphml) &nbsp; | [SBGN-ML](/images/af/F002-AirwayEpithelialCell-SBGNv02.sbgn) &nbsp; | [PDF](/images/af/F002-AirwayEpithelialCell.pdf) &nbsp; | [SVG](/images/af/F002-AirwayEpithelialCell.svg)  
-Airway smooth muscle cell &nbsp; &nbsp; &nbsp; | [GraphML](/images/af/F015-AirwaySmoothMuscleCell.graphml) | [SBGN-ML](/images/af/F015-AirwaySmoothMuscleCell-SBGNv02.sbgn) | [PDF](/images/af/F015-AirwaySmoothMuscleCell.pdf) | [SVG](/images/af/F015-AirwaySmoothMuscleCell.svg)  
+Airway smooth muscle cell &nbsp; &nbsp; &nbsp; &nbsp; | [GraphML](/images/af/F015-AirwaySmoothMuscleCell.graphml) | [SBGN-ML](/images/af/F015-AirwaySmoothMuscleCell-SBGNv02.sbgn) | [PDF](/images/af/F015-AirwaySmoothMuscleCell.pdf) | [SVG](/images/af/F015-AirwaySmoothMuscleCell.svg)  
 B cell | [GraphML](/images/af/F008-BCell.graphml) | [SBGN-ML](/images/af/F008-BCell-SBGNv02.sbgn) | [PDF](/images/af/F008-BCell.pdf) | [SVG](/images/af/F008-BCell.svg)  
 Dendritic cell | [GraphML](/images/af/F001-DendriticCell.graphml) &nbsp; | [SBGN-ML](/images/af/F001-DendriticCell-SBGNv02.sbgn) &nbsp; | [PDF](/images/af/F001-DendriticCell.pdf) &nbsp; | [SVG](/images/af/F001-DendriticCell.svg)  
 Eosinophil | [GraphML](/images/af/F011-Eosinophil.graphml) | [SBGN-ML](/images/af/F011-Eosinophil-SBGNv02.sbgn) | [PDF](/images/af/F011-Eosinophil.pdf) | [SVG](/images/af/F011-Eosinophil.svg)  
