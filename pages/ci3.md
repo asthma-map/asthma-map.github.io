@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Cellular Interactions
-permalink: /ci2/
+permalink: /ci3/
 ---
 
 
-## AsthmaMap Cellular Interactions 1.2
+## AsthmaMap Cellular Interactions for build 1.3
 
 A new version of the AsthmaMap Cellular Interactions map is being developed in collaboration with the Laboratory for Translational Research and Personalised Medicine at the Moscow Institute of Physics and Technology. Newly introduced changes are marked in red.
 
@@ -17,9 +17,9 @@ A new version of the AsthmaMap Cellular Interactions map is being developed in c
 
 <a href="/images/ci/AsthmaMapCI-V1.2.01-red.svg"><img src="/images/ci/AsthmaMapCI-V1.2.01-red.png"/></a>
 
-### What is new in the AsthmaMap Cellular Interactions 1.2
+### What is new in the AsthmaMap Cellular Interactions 1.3
 
-The following tables provide details on the added content in comparison with the released [version 1.1](/ci/).
+The following tables provide details on the added content in comparison with the released [build 1.2](/ci/).
 
 #### Endothelial cell
 
