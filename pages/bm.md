@@ -28,7 +28,7 @@ AsthmaMap Process Description [Eicosanoid Module 0.0.42 in MINERVA](http://asthm
 
 ## Eosinophil Module
 
-The Eosinophil Module map is currently under development for Build 1.3.
+The Eosinophil Module is currently under development for Build 1.3.
 
 [CellDesigner](/images/pd/EosinophilModule-0.0.40.xml) &nbsp; &nbsp; [PDF](/images/pd/EosinophilModule-0.0.40.pdf) &nbsp; &nbsp; [PNG](/images/pd/EosinophilModule-0.0.40.png)
 
