@@ -26,7 +26,9 @@ AsthmaMap Process Description [Mast Cell Module 0.0.40 in MINERVA](http://asthma
 <!--### Availability 
 AsthmaMap Process Description [Eicosanoid Module 0.0.42 in MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=AA_V42_SBGN&x=2050&y=1050&zoom=4)-->
 
-## Eosinophil Module (in peparation for Build 1.3)
+## Eosinophil Module
+
+The Eosinophil Module map is currently under development for Build 1.3.
 
 [CellDesigner](/images/pd/EosinophilModule-0.0.40.xml) &nbsp; &nbsp; [PDF](/images/pd/EosinophilModule-0.0.40.pdf) &nbsp; &nbsp; [PNG](/images/pd/EosinophilModule-0.0.40.png)
 
