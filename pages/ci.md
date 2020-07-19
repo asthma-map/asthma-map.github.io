@@ -14,6 +14,8 @@ Version 1.1 includes 22 cell types with more than 50 receptors connected to the 
 
 <!--![](/images/ci/AsthmaMapCI-V1.1.png)-->
 
+<a href="https://asthma.uni.lu/minerva/" target="_blank">Open in MINERVA</a>
+
 <a href="/images/ci/AsthmaMapCI-V1.1.svg"><img src="/images/ci/AsthmaMapCI-V1.1.png"/></a>
 
 ### Content
