@@ -35,10 +35,10 @@ The AsthmaMap Molecular Relations layer consists of cell-type-specific interconn
 </table>
 <table>
     <tr>
-      <td style="width: 225px;" align="center"><a href="/images/af/F001-DendriticCell.svg"><img src="/images/af/F001-DendriticCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F002-AirwayEpithelialCell.svg"><img src="/images/af/F002-AirwayEpithelialCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F009-Macrophage.svg"><img src="/images/af/F009-Macrophage-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F013-Neutrophil.svg"><img src="/images/af/F013-Neutrophil-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=4215&y=2552&submap=3288&"><img src="/images/af/F001-DendriticCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=1714&y=745&submap=3278&zoom=4&"><img src="/images/af/F002-AirwayEpithelialCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=3452&y=2594&submap=3284&"><img src="/images/af/F009-Macrophage-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=976&y=1003&submap=3280&"><img src="/images/af/F013-Neutrophil-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
     </tr>
 </table>
 
@@ -69,10 +69,10 @@ The AsthmaMap Molecular Relations layer consists of cell-type-specific interconn
 </table>
 <table>
     <tr>
-      <td style="width: 225px;" align="center"><a href="/images/af/F011-Eosinophil.svg"><img src="/images/af/F011-Eosinophil-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F012-MastCell.svg"><img src="/images/af/F012-MastCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F015-AirwaySmoothMuscleCell.svg"><img src="/images/af/F015-AirwaySmoothMuscleCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F014-Fibroblast.svg"><img src="/images/af/F014-Fibroblast-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=2528&y=1520&submap=3282&zoom=3&"><img src="/images/af/F011-Eosinophil-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=3324&y=1541&submap=3289&zoom=4&"><img src="/images/af/F012-MastCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=2553&y=1178&submap=3279&zoom=3&"><img src="/images/af/F015-AirwaySmoothMuscleCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=3587&y=1378&submap=3287&zoom=5&"><img src="/images/af/F014-Fibroblast-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
     </tr>
 </table>
 
@@ -103,10 +103,10 @@ The AsthmaMap Molecular Relations layer consists of cell-type-specific interconn
 </table>
 <table>
     <tr>
-      <td style="width: 225px;" align="center"><a href="/images/af/F010-EosinophilPrecursor.svg"><img src="/images/af/F010-EosinophilPrecursor-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F008-BCell.svg"><img src="/images/af/F008-BCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F003-Th0.svg"><img src="/images/af/F003-Th0-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F004-Th2.svg"><img src="/images/af/F004-Th2-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=740&y=892&submap=3292&zoom=2&"><img src="/images/af/F010-EosinophilPrecursor-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=3975&y=2113&submap=3290&zoom=4&"><img src="/images/af/F008-BCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=5578&y=2722&submap=3276&zoom=4&"><img src="/images/af/F003-Th0-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=2299&y=1582&submap=3277&zoom=4&"><img src="/images/af/F004-Th2-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
     </tr>
 </table>
 
@@ -138,10 +138,10 @@ The AsthmaMap Molecular Relations layer consists of cell-type-specific interconn
 </table>
 <table>
     <tr>
-      <td style="width: 225px;" align="center"><a href="/images/af/F006-ILCPrecursor.svg"><img src="/images/af/F006-ILCPrecursor-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F007-ILC2.svg"><img src="/images/af/F007-ILC2-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F016-GobletCell.svg"><img src="/images/af/F016-GobletCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
-      <td style="width: 225px;" align="center"><a href="/images/af/F005-Treg.svg"><img src="/images/af/F005-Treg-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=3826&y=1827&submap=3283&zoom=3&"><img src="/images/af/F006-ILCPrecursor-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=641&y=734&submap=3286&zoom=2&"><img src="/images/af/F007-ILC2-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=3278&y=1396&submap=3291&zoom=2&"><img src="/images/af/F016-GobletCell-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
+      <td style="width: 225px;" align="center"><a href="https://asthma.uni.lu/minerva/?x=976&y=1003&submap=3275&zoom=2&"><img src="/images/af/F005-Treg-cut.png" style="border: #c6c6c6 1px solid; width: 195px;"/></a></td>
     </tr>
 </table>
 
