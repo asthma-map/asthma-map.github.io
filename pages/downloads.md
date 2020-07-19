@@ -23,8 +23,6 @@ AsthmaMap Cellular Interactions
 &nbsp; [PNG](/images/ci/AsthmaMapCI-V1.1.png)
 &nbsp; [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
-<br />
-
 #### AsthmaMap Molecular Relations (Activity Flow)
 
 | Dendritic cell | [GraphML](/images/af/F001-DendriticCell.graphml) | [SBGN-ML](/images/af/F001-DendriticCell-SBGNv02.sbgn) | [PDF](/images/af/F001-DendriticCell.pdf) | [SVG](/images/af/F001-DendriticCell.svg) |
@@ -126,8 +124,6 @@ Goblet cell
 &nbsp; [SBGN-ML](/images/af/F016-GobletCell-SBGNv02.sbgn)
 &nbsp; [PDF](/images/af/F016-GobletCell.pdf)
 &nbsp; [SVG](/images/af/F016-GobletCell.svg)  
-
-<br />
 
 #### AsthmaMap Biochemical Mechanisms (Process Description)
 
