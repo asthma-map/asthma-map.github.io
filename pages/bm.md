@@ -10,9 +10,7 @@ The AsthmaMap Biochemical Mechanisms layer consists of maps manually developed i
 
 ## Mast Cell Module 0.0.40
 
-An interactive version is [available for browsing in MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=mast_cell&x=11680&y=2300&zoom=6).  
-
-How to comment via MINERVA platform: [open in MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=mast_cell&x=11680&y=2300&zoom=6) > choose an object > right click > select "Add comment".
+<a href="https://asthma.uni.lu/minerva/" target="_blank">Open in MINERVA</a> &nbsp;
 
 <a href="/images/pd/MastCellModule-0.0.40.png"><img src="/images/pd/MastCellModule-0.0.40-cut.png" style="border: #c6c6c6 1px solid;"/></a>
 
@@ -21,14 +19,13 @@ AsthmaMap Process Description [Mast Cell Module 0.0.40 in MINERVA](http://asthma
 
 ## Eicosanoid Module 0.0.42
 
-An interactive version is [available for browsing in MINERVA](https://asthma.uni.lu/minerva/index.xhtml?id=aa).
+<a href="https://asthma.uni.lu/minerva/" target="_blank">Open in MINERVA</a> &nbsp;
 
 <a href="/images/pd/EicosanoidModule-0.0.42.png"><img src="/images/pd/EicosanoidModule-0.0.42-cut.png" style="border: #c6c6c6 1px solid;"/></a>
 
 <!--### Availability 
 AsthmaMap Process Description [Eicosanoid Module 0.0.42 in MINERVA](http://asthma.uni.lu/minerva/index.xhtml?id=AA_V42_SBGN&x=2050&y=1050&zoom=4)-->
 
-## Eosinophil Module 0.0.40
-
-<a href="/images/pd/EosinophilModule-0.0.40.png"><img src="/images/pd/EosinophilModule-0.0.40-cut.png" style="border: #c6c6c6 1px solid;"/></a>
+<!--## Eosinophil Module 0.0.40
+<a href="/images/pd/EosinophilModule-0.0.40.png"><img src="/images/pd/EosinophilModule-0.0.40-cut.png" style="border: #c6c6c6 1px solid;"/></a>-->
 
