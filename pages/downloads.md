@@ -12,7 +12,7 @@ permalink: /downloads/
 
 #### Cellular Interactions 
 
-Cellular Interactions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml) &nbsp; | [PDF](/images/ci/AsthmaMapCI-V1.1.pdf) &nbsp; | [PNG](/images/ci/AsthmaMapCI-V1.1.png) &nbsp; | [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
+Cellular Interactions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [GraphML](/images/ci/AsthmaMapCI-V1.1.graphml) &nbsp; | [PDF](/images/ci/AsthmaMapCI-V1.1.pdf) &nbsp; | [PNG](/images/ci/AsthmaMapCI-V1.1.png) &nbsp; | [SVG](/images/ci/AsthmaMapCI-V1.1.svg)  
 
 #### Molecular Relations (Activity Flow)
 
