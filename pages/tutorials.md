@@ -21,7 +21,7 @@ This tutorial describes how to navigate the AsthmaMap resource and use the Searc
 src="https://www.youtube.com/embed/ramsvnlUBWk?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
 
-Specific maps of the [Molecular Relations](/mr) and [Biochemical Mechanisms](/bm) layers can be access via the provided "Open in MINERVA" links on the website.
+Specific maps of the [Molecular Relations](/mr) and [Biochemical Mechanisms](/bm) layers can be accessed via the provided "Open in MINERVA" links.
 
 As described in the video, to access submaps in MINERVA please use the buttons on the left side of the map and then click on the corresponding link in the left-side menu, or, alternatively, use the SUBMAPS tab in MINERVA.
 
