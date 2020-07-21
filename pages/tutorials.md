@@ -13,7 +13,7 @@ permalink: /tutorials/
 
 ### Navigating the AsthmaMap
 
-This tutorial describes how to navigate the AsthmaMap resource and use the Search functionality in MINERVA.
+This tutorial describes how to navigate the AsthmaMap resource and use the search functionality in MINERVA.
 
 <iframe width="640" height="360"
 src="https://www.youtube.com/embed/ramsvnlUBWk?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
