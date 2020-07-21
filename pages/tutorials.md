@@ -11,7 +11,6 @@ permalink: /tutorials/
 [Exploring drug targets](#exploring-drug-targets)  
 [Visualising data](#visualising-data)  
 
-<br />
 
 ### Navigating the AsthmaMap
 
