@@ -6,12 +6,12 @@ permalink: /tutorials/
 
 # Video tutorials
 
+The tutorials on this page are an easy way to learn about the AsthmaMap resource and how it can be used for data visualisation and exploring drug targets.
+
 [Navigating the AsthmaMap](#navigating-the-asthmamap)  
 [Commenting](#commenting)  
 [Exploring drug targets](#exploring-drug-targets)  
 [Visualising data](#visualising-data)  
-
-The tutorials on this page are an easy way to learn about the AsthmaMap resource and how it can be used for data visualisation and exploring drug targets.
 
 ### Navigating the AsthmaMap
 
