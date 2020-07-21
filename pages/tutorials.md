@@ -11,6 +11,8 @@ permalink: /tutorials/
 [Exploring drug targets](#exploring-drug-targets)  
 [Visualising data](#visualising-data)  
 
+The tutorials on this page are an easy way to learn about the AsthmaMap resource and how it can be used for data visualisation and exploring drug targets.
+
 ### Navigating the AsthmaMap
 
 This tutorial describes how to navigate the AsthmaMap resource and use the Search functionality in MINERVA.
