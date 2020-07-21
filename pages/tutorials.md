@@ -6,16 +6,22 @@ permalink: /tutorials/
 
 # Video tutorials
 
-[Browsing and navigation](#browsing-and-navigation)  
+[Navigating the AsthmaMap](#navigating-the-asthmamap)  
 [Commenting](#commenting)  
 [Exploring drug targets](#exploring-drug-targets)  
 [Visualising data](#visualising-data)  
 
 ### Navigating the AsthmaMap
 
+This tutorial describes how to navigate the AsthmaMap resource and use the Search functionality in MINERVA.
+
 <iframe width="640" height="360"
 src="https://www.youtube.com/embed/ramsvnlUBWk?rel=0&amp;modestbranding=0" frameborder="0" allowfullscreen>
 </iframe>
+
+Specific maps of the [Molecular Relations](/mr) and [Biochemical Mechanisms](/bm) layers can be access via the provided "Open in MINERVA" links on the website.
+
+As described in the video, to access submaps in MINERVA please use the buttons on the left side of the map and then click on the corresponding link in the left-side menu, or, alternatively, use the SUBMAPS tab in MINERVA.
 
 <br />
 
