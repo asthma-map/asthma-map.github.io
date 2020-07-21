@@ -11,6 +11,8 @@ permalink: /tutorials/
 [Exploring drug targets](#exploring-drug-targets)  
 [Visualising data](#visualising-data)  
 
+<br />
+
 ### Navigating the AsthmaMap
 
 This tutorial describes how to navigate the AsthmaMap resource and use the search functionality in MINERVA.
