@@ -114,7 +114,7 @@ permalink: /team/
 <table>
 <tr>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Rupert Overall, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Platform Leader, Cognitive Resilience Map, German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</font></p></td>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Johann Pellet, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Johann Pellet, MSc</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 </tr>
@@ -164,7 +164,7 @@ permalink: /team/
 <tr>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Piotr Gawron, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Marek Ostaszewski, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Reinhard Schneider, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Reinhard Schneider, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Head of the Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Rudi Balling, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Director of the Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 </tr>
 </table>
