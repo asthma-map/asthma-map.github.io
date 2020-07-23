@@ -105,7 +105,7 @@ permalink: /team/
 <table>
 <tr>
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/RupertOverall.jpg" width="160"/></p></td>
-<td style="width: 220px;"> </td>
+<td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/JohannPellet.jpg" width="160"/></p></td>
 <td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 </tr>
@@ -114,7 +114,7 @@ permalink: /team/
 <table>
 <tr>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Rupert Overall, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Platform Leader, Cognitive Resilience Map, German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</font></p></td>
-<td style="width: 220px;"> </td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Johann Pellet, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 220px;"> </td>
 <td style="width: 220px;"> </td>
 </tr>
