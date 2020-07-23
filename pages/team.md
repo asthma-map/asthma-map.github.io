@@ -156,6 +156,7 @@ permalink: /team/
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/PiotrGawron.jpg" width="160"/></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/MarekOstaszewski.jpg" width="160"/></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/ReinhardSchneider.jpg" width="160"/></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><img src="/images/team/RudiBalling.jpg" width="160"/></p></td>
 </tr>
 </table>
 
@@ -164,6 +165,7 @@ permalink: /team/
 <td style="width: 220px;"><p style="margin:4px;"><strong>Piotr Gawron, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Marek Ostaszewski, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Reinhard Schneider, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Rudi Balling, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Director of the Luxembourg Centre for Systems Biomedicine, Belvaux, Luxembourg</font></p></td>
 </tr>
 </table>
 
