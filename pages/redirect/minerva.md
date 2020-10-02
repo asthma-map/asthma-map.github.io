@@ -1,5 +1,4 @@
 ---
-title: Browse the AsthmaMap in MINERVA
 permalink: /minerva/
 redirect_to: https://asthma.uni.lu/minerva/
 ---
