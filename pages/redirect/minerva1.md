@@ -1,5 +1,5 @@
 ---
-permalink: /minerva/
+permalink: /minerva1/
 redirect_to: https://asthma.uni.lu/minerva/
 ---
 
