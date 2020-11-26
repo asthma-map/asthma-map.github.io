@@ -14,6 +14,8 @@ permalink: /tutorials/
 
 ### Navigating the AsthmaMap
 
+#### Video duration: 4 min
+
 This tutorial describes how to navigate the AsthmaMap resource and use the search functionality in MINERVA.
 
 <iframe width="640" height="360"
@@ -44,6 +46,8 @@ The pathway of COX1/2 acetylation by aspirin: [https://metabolismregulation.org/
 
 ### Exploring drug targets
 
+#### Video duration: 3 min
+
 This tutorial describes how to use the MINERVA drug search funcitonality and explore drug targets via online queries to [DrugBank](https://www.drugbank.ca) and [CHEMBL](https://www.ebi.ac.uk/chembl).  
 
 <iframe width="640" height="360"
@@ -53,6 +57,8 @@ src="https://www.youtube.com/embed/J70ppBO46OI?rel=0&amp;modestbranding=0" frame
 <br />
 
 ### Visualising data
+
+#### Video duration: 5 min
 
 This tutorial describes how to use the MINERVA overlay functionality to visualise data, including multi-omics data.   
 
