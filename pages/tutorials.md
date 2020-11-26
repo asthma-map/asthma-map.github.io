@@ -28,6 +28,8 @@ As described in the video, to access submaps in MINERVA please use the buttons o
 
 ### Commenting
 
+#### Video duration: 4 min
+
 This tutorial describes how comments can be added directly to the map.  
 
 <iframe width="640" height="360"
