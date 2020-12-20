@@ -14,8 +14,11 @@ AsthmaMap is being developed in close collaboration with the LCSB Parkinson's di
 
 The AsthmaMap project progresses in alliance with other efforts of the Disease Maps Community and communicates with other groups for exchanging experience and best practices.  
 
-<!--## How to cite
-Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).-->
+## How to cite
+
+Mazein A, Ivanova O, Balaur I, Ostaszewski M, Berzhitskaya V, Serebriyskaya T, Ligon T, Hasenauer J, De Meulder B, Overall RW, Roy L, Knowles RG, Wheelock CE, Dahlen SE, Chung KF, Adcock IM, Roberts G, Djukanovic R, Pellet J, Gawron P, Balling R, Maitland-van der Zee AH, Schneider R, Sterk PJ, Auffray C; U-BIOPRED Study Group and the eTRIKS Consortium. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [doi: 10.1016/j.jaci.2020.11.032](https://doi.org/10.1016/j.jaci.2020.11.032). [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
+
+Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
 
 ## Participate
 
