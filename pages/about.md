@@ -14,6 +14,10 @@ AsthmaMap is being developed in close collaboration with the LCSB Parkinson's di
 
 The AsthmaMap project progresses in alliance with other efforts of the Disease Maps Community and communicates with other groups for exchanging experience and best practices.  
 
+## Licence
+
+The content of the maps and downloadable materials are distributed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) Licence](https://creativecommons.org/licenses/by/4.0/).
+
 ## How to cite
 
 Mazein A, Ivanova O, Balaur I, Ostaszewski M, Berzhitskaya V, Serebriyskaya T, Ligon T, Hasenauer J, De Meulder B, Overall RW, Roy L, Knowles RG, Wheelock CE, Dahlen SE, Chung KF, Adcock IM, Roberts G, Djukanovic R, Pellet J, Gawron P, Balling R, Maitland-van der Zee AH, Schneider R, Sterk PJ, Auffray C; U-BIOPRED Study Group and the eTRIKS Consortium. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [doi: 10.1016/j.jaci.2020.11.032](https://doi.org/10.1016/j.jaci.2020.11.032). [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
@@ -35,11 +39,6 @@ Charles Auffray [cauffray@eisbm.org](mailto:cauffray@eisbm.org)
 ## Availability
 
 All the files are available for downloading via the [Downloads](/downloads) page.
-
-## Press release
-
-New "AsthmaMap" could redefine disease and personalize treatment for patients, 12th March 2016, European Lung Foundation. 
-[Read...](http://www.europeanlung.org/en/news-and-events/media-centre/press-releases/new-%E2%80%9Casthmamap%E2%80%9D-could-redefine-disease-and-personalise-treatment-for-patients)
 
 ## Funding
 
